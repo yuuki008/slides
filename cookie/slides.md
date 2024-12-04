@@ -126,7 +126,7 @@ title: ファーストパーティ Cookie
 <section class="fade-in-up absolute top-0 left-0 w-full h-full flex flex-col justify-center items-center">
     <div class="text-left">
         <div class="text-4xl font-semibold">訪れたウェブサイトのメモ帳</div>
-        <div class="mt-4 text-gray-500">
+        <div class="mt-4 text-gray-300">
           例: ログイン情報、カートの中身
         </div>
     </div>
@@ -155,7 +155,7 @@ title: サードパーティ Cookie
 <section class="fade-in-up absolute top-0 left-0 w-full h-full flex flex-col justify-center items-center">
     <div class="text-left">
         <div class="text-4xl font-semibold">訪れたウェブサイト以外のメモ帳</div>
-        <div class="mt-4 text-gray-500">
+        <div class="mt-4 text-gray-300">
           例: 広告、分析、トラッキング
         </div>
     </div>
@@ -261,7 +261,7 @@ layout: center
 
   <div class="content text-left max-w-2xl">
     ユーザーを監視して、分析したり、広告を表示したりしてる。
-    <div class="mt-2 text-gray-500">
+    <div class="mt-2 text-gray-300">
       ※ 個人は特定されない
     </div>
   </div>
@@ -347,7 +347,7 @@ layout: center
 >
   <div class="content text-left max-w-2xl">
     <header class="mb-8">
-      <h2 class="text-4xl font-semibold">余談: Cookie の取り扱いは国によって違う</h2>
+      <h2 class="text-4xl font-semibold">余談: Cookie に関するルールは国によって違う</h2>
     </header>
     <ul class="list-disc list-inside space-y-2">
       <li>EU は、サービスに必須ではないものであれば同意が必要</li>
@@ -384,4 +384,29 @@ layout: center
 <div class="fade-in-up font-bold w-full flex flex-col justify-center items-center h-full text-[100px] text-center">
   おわり
 </div>
+
+
+---
+title: 参考
+layout: center
+---
+
+<section
+  class="fade-in-up absolute top-0 left-0 w-full h-full flex flex-col justify-center items-center"
+>
+  <div class="text-left">
+    <header class="mb-8">
+        <h2 class="text-4xl font-semibold">参考</h2>
+    </header>
+    <ul class="list-disc list-inside space-y-2">
+        <li><a href="https://depart-inc.com/blog/cookie-regulation-ownedmedia/">
+            サードパーティクッキー規制の影響とオウンドメディアの重要性
+        </a></li>
+        <li><a href="https://zenn.dev/kail/articles/299e6cc3cb0f5b">
+            Chrome、Edge 3rd party cookie(サードパーティクッキー)廃止について
+        </a></li>
+        <li><a href="https://gdpr.eu/cookies/">Cookies, the GDPR, and the ePrivacy Directive ( EU の Cookie への規制 )</a></li>
+    </ul>
+  </div>
+</section>
 
