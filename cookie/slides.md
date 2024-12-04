@@ -331,7 +331,7 @@ layout: center
 
 ---
 title: 国によって違う
-layout: text-center
+layout: center
 ---
 
 <section
