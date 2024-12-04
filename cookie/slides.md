@@ -145,7 +145,7 @@ layout: center
 
 <div class="w-[80%] mx-auto">
 <img
-  src="./firstpartycookie.png"
+  src="/firstpartycookie.png"
   alt="ファーストパーティ Cookie の例"
   class="w-full rounded-lg"
 />
@@ -237,7 +237,7 @@ layout: center
 
 <div class="fade-in-up w-full flex flex-col justify-center items-center h-full  text-[30px] text-center">
     <img
-      src="./sample.png"
+      src="/sample.png"
       alt=""
       class="w-full rounded-lg"
     />
