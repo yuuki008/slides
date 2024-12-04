@@ -2,7 +2,7 @@
 title: Cookie は許可するべき？
 ---
 
-# 🍪 Cookie 許可するべき？
+# 🍪 Cookie を許可するべき？
 
 ---
 title: Cookie 許可してますか？
@@ -28,7 +28,6 @@ title: Cookie 許可してますか？
     </div>
 </div>
 
-
 ---
 title: この発表を聞くと
 layout: center
@@ -45,7 +44,7 @@ layout: center
   <div class="content text-left max-w-2xl">
     <ul class="list-disc list-inside space-y-2">
       <li>Cookie が何かわかる</li>
-      <li>自分の意思を持って「許可するか」判断できる</li>
+      <li>自分の意思で「許可するか」判断できる</li>
     </ul>
   </div>
 </section>
@@ -66,8 +65,6 @@ title: Cookie とは
   </span>
 </div>
 
-
-
 ---
 title: 簡単にいうと
 ---
@@ -83,15 +80,13 @@ title: Cookie のおかげ
 layout: center
 ---
 
-
 <section
   class="fade-in-up absolute top-0 left-0 w-full h-full flex flex-col justify-center items-center text-center"
 >
   <header class="mb-8">
-    <h2 class="text-4xl font-semibold">cookie のおかげ</h2>
+    <h2 class="text-4xl font-semibold">Cookie のおかげ</h2>
   </header>
 
-  <!-- コンテンツ -->
   <div class="content text-left max-w-2xl">
     <p class="mb-4">会員登録していないのに、、、</p>
     <ul class="list-disc list-inside space-y-2">
@@ -116,8 +111,8 @@ layout: center
       <h2 class="text-4xl font-semibold">Cookie には大きく分けて 2 種類ある</h2>
     </header>
     <ul class="list-disc list-inside space-y-2">
-      <li>ファーストパーティ</li>
-      <li>サードパーティ</li>
+      <li>ファーストパーティ Cookie</li>
+      <li>サードパーティ Cookie</li>
     </ul>
   </div>
 </section>
@@ -126,17 +121,16 @@ layout: center
 title: ファーストパーティ Cookie
 ---
 
-# ファーストパーティー Cookie
+### ファーストパーティ Cookie
 
 <section class="fade-in-up absolute top-0 left-0 w-full h-full flex flex-col justify-center items-center">
     <div class="text-left">
         <div class="text-4xl font-semibold">訪れたウェブサイトのメモ帳</div>
-        <div class="mt-4">
+        <div class="mt-4 text-gray-500">
           例: ログイン情報、カートの中身
         </div>
     </div>
 </section>
-
 
 ---
 title: ファーストパーティ Cookie の例
@@ -156,12 +150,12 @@ layout: center
 title: サードパーティ Cookie
 ---
 
-# サードパーティ Cookie
+### サードパーティ Cookie
 
 <section class="fade-in-up absolute top-0 left-0 w-full h-full flex flex-col justify-center items-center">
     <div class="text-left">
-        <div class="text-4xl font-semibold">訪れたウェブサイト以外のメモ</div>
-        <div class="mt-4">
+        <div class="text-4xl font-semibold">訪れたウェブサイト以外のメモ帳</div>
+        <div class="mt-4 text-gray-500">
           例: 広告、分析、トラッキング
         </div>
     </div>
@@ -194,68 +188,84 @@ layout: center
       <h2 class="text-4xl font-semibold">許可を求めているのは、だいたいサードパーティ</h2>
     </header>
     <ul class="list-disc list-inside space-y-2">
-      <li>2022 年 4 月からサードパーティ Cookie の利用には同意が必要に</li>
+      <li>2022年4月からサードパーティ Cookie の利用には同意が必要になった</li>
     </ul>
   </div>
 </section>
-
 
 ---
 title: サードパーティ Cookie の廃止の流れ、、、
 layout: center
 ---
 
-<section
-  class="fade-in-up absolute top-0 left-0 w-full h-full flex flex-col justify-center items-center text-center"
->
+<section class="fade-in-up absolute top-0 left-0 w-full h-full flex flex-col justify-center items-center text-center">
   <div class="content text-left max-w-2xl">
     <header class="mb-8">
       <h2 class="text-4xl font-semibold">サードパーティ Cookie は廃止になるかも、、、</h2>
     </header>
     <ul class="list-disc list-inside space-y-2">
-      <li>Chrome 以外の主要ブラウザではサードパーティCookieをブロックしてる</li>
-      <li>Chrome は 2025 年にサードパーティ Cookie を廃止する予定</li>
+      <li>Chrome以外の主要ブラウザではサードパーティ Cookie をブロックしている</li>
+      <li>Chrome は 2025年にサードパーティ Cookie を廃止する予定</li>
     </ul>
   </div>
 </section>
-
 
 ---
 title: 危険なものじゃない
 layout: center
 ---
 
-<div class="fade-in-up w-full flex flex-col justify-center items-center h-full  text-[30px] text-center">
+<div class="fade-in-up w-full flex flex-col justify-center items-center h-full text-[30px] text-center">
   危険なものじゃない
 </div>
-
 
 ---
 title: 危険なものじゃない 例
 layout: center
 ---
 
-<div class="fade-in-up w-full flex flex-col justify-center items-center h-full  text-[30px] text-center">
+<div class="fade-in-up w-full flex flex-col justify-center items-center h-full text-[30px] text-center">
     <img
       src="/sample.png"
-      alt=""
+      alt="Cookieの安全性の例"
       class="w-full rounded-lg"
     />
     <img
       class="h-full mx-auto z-[100] absolute"
       v-click
       src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJXYVCbpXdstc30mEWtspHcixWtjN83WZdccPF9QNtF2S9Bykwp5TcMVT8jB4FNEBModDyO_HR5BYIYCvqg_VzEXhbKy7gymQU35n5cpfBr53L_5l9rNqiiz6yR-D1aAOMlpdsvqgXMlI6/s800/mark_batsu.png"
+      alt="バツ印"
     />
 </div>
 
+
 ---
-title: 危険なものじゃない 例
+title: 個人が特定されるわけではない
 layout: center
 ---
 
-<div class="fade-in-up w-full flex flex-col justify-center items-center h-full  text-[30px] text-center">
-  個人が特定されるわけではない
+<div class="fade-in-up w-full flex flex-col justify-center items-center h-full text-[30px] text-center">
+    <div class="mt-4">個人が特定されるわけではない</div>
 </div>
+
+---
+title: 実際に行われていること
+layout: center
+---
+<section
+  class="fade-in-up absolute top-0 left-0 w-full h-full flex flex-col justify-center items-center text-center"
+>
+  <header class="mb-8">
+    <h2 class="text-4xl font-semibold">サードパーティ Cookie で何してんの？</h2>
+  </header>
+
+  <div class="content text-left max-w-2xl">
+    ユーザーを監視して、分析したり、広告を表示したりしてる。
+    <div class="mt-2 text-gray-500">
+      ※ 個人は特定されない
+    </div>
+  </div>
+</section>
 
 ---
 title: 考えられる拒否する理由
@@ -270,7 +280,7 @@ layout: center
       <h2 class="text-4xl font-semibold">こんな人は拒否しよう！</h2>
     </header>
     <ul class="list-disc list-inside space-y-2">
-      <li>何者かに監視されたくない</li>
+      <li>監視されたくない</li>
       <li>パーソナライズされた広告を見たくない</li>
     </ul>
   </div>
@@ -286,7 +296,6 @@ title: ちなみに僕は...
   僕は...
 </div>
 
-
 ---
 title: ALL OK
 ---
@@ -297,7 +306,7 @@ title: ALL OK
   <img
     class="w-[300px] h-[300px] rounded-full mx-auto"
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDc5bzYzYTFldHFyOHY1aTYyaTdpc2NjaGZhdTM3dW1sazdldjZkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLW9YEaSBfBMt79fm4/giphy.webp"
-    alt="all ok"
+    alt="All OK"
   />
   全て許可
 </div>
@@ -328,9 +337,8 @@ layout: center
   あなた次第
 </div>
 
-
 ---
-title: 国によって違う
+title: 余談01: 国によって違う
 layout: center
 ---
 
@@ -362,7 +370,8 @@ layout: center
       <h2 class="text-4xl font-semibold">ユニクロのサイトを見てみよう</h2>
     </header>
     <ul class="list-disc list-inside space-y-2">
-      <li><a target="_blank" href="https://www.uniqlo.com">https://www.uniqlo.com</a></li>
+      <li><a target="_blank" href="https://www.uniqlo.com/jp">https://www.uniqlo.com/jp</a></li>
+      <li><a target="_blank" href="https://www.uniqlo.com/uk">https://www.uniqlo.com/uk</a></li>
     </ul>
   </div>
 </section>
@@ -376,4 +385,3 @@ layout: center
   おわり
 </div>
 
----
