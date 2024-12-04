@@ -1,11 +1,4 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Cookie についてのスライド資料
 
-To start the slide show:
-
-- `npm install`
-- `npm run dev`
-- visit <http://localhost:3030>
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev at the [documentation](https://sli.dev/).
+## 参考
+- [機械オンチに「Cookie」を説明する動画](https://www.youtube.com/watch?v=QOb1SWOvbu4&t=996s)
