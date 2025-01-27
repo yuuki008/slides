@@ -63,7 +63,7 @@ transition: slide-up
 ---
 
 <div className="font-bold text-[4.5rem]">
-  来期から<span v-mark.yellow="1">基盤</span>と<span v-mark.purple="1">活用</span>にチームが分かれる
+  来期から<span v-mark.yellow="1">基盤</span>と<span v-mark.purple="1">活用</span>にグループが分かれる
 </div>
 
 ---
@@ -73,7 +73,7 @@ transition: slide-left
 <div className="relative flex items-center w-[1400px] space-x-8 mx-auto h-full">
     <div className="border rounded-xl shadow-xl p-8 flex-1">
         <div className="text-[45px] font-semibold text-center mb-6">
-            基盤
+            基盤グループ
             <div className="text-gray-500 text-[28px]">
             3 members+
             </div>
@@ -81,11 +81,11 @@ transition: slide-left
         <div className="space-y-8">
             <MemberCard
               name="谷口 健太"
-              nickname="けんてぃー"
+              nickname="たぬー"
               imageSrc="https://ca.slack-edge.com/TL86R5GH1-UL86R5GV9-42d14dbc2420-512"
             />
             <MemberCard
-              name="国分 拓也"
+              name="國分 拓也"
               nickname="くぶたく"
               imageSrc="https://ca.slack-edge.com/TL86R5GH1-U04DD6NLZQ9-8fe529d0275b-72"
             />
@@ -98,7 +98,7 @@ transition: slide-left
     </div>
     <div className="border rounded-xl shadow-xl p-8 flex-1">
         <div className="text-[45px] font-semibold text-center mb-6">
-            活用
+            活用グループ
             <div className="text-gray-500 text-[28px]">
             3 members+
             </div>
@@ -130,32 +130,9 @@ transition: slide-left
 # 宣伝
 
 ---
-transition: slide-up
+src: ./pages/yuru-d/index.md
+hide: false
 ---
-
-<div className="text-[4.5rem] font-bold">ゆる D</div>
-<div className="text-gray-500 text-[2rem]">火曜日 19:00 ~ 21:00</div>
-
----
-transition: slide-up
----
-
-ゆる D をしている画像を表示
-
----
-transition: slide-left
----
-
-<div className="w-[1000px] h-full mx-auto flex flex-col items-center justify-between">
-    <div className="text-left italic">
-        <div className="text-[5rem] font-bold text-yellow-400">
-          <span v-mark.yellow="1">ライトニングトーク</span>
-        </div>
-    </div>
-    <div className="text-left">
-      <div v-mark.circle.yellow="2" className="text-[1.5rem] font-semibold">2025/02/25 (Tue) 18:30~</div>
-    </div>
-</div>
 
 ---
 transition: slide-up
