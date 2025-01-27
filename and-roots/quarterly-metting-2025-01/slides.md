@@ -56,6 +56,15 @@ transition: slide-left
 
 # これから
 
+
+---
+transition: slide-up
+---
+
+<div className="font-bold text-[4.5rem]">
+  来期から<span v-mark.yellow="0">基盤</span>と<span v-mark.purple="0">活用</span>にチームが分かれる
+</div>
+
 ---
 transition: slide-left
 ---
@@ -95,11 +104,6 @@ transition: slide-left
         </div>
         <div className="space-y-8">
             <MemberCard
-              name="能村 優希"
-              nickname="のむ"
-              imageSrc="https://ca.slack-edge.com/TL86R5GH1-U0281NV010D-b0903e6ed514-512"
-            />
-            <MemberCard
               name="堀 順郎"
               nickname="のぶろー"
               imageSrc="https://ca.slack-edge.com/TL86R5GH1-U04QAP3048N-8b3f5f4127ed-512"
@@ -108,6 +112,11 @@ transition: slide-left
               name="崎本 育直"
               nickname="いっくん"
               imageSrc="https://ca.slack-edge.com/TL86R5GH1-U039MJ5HN91-d2db0181d802-512"
+            />
+            <MemberCard
+              name="能村 優希"
+              nickname="のむ"
+              imageSrc="https://ca.slack-edge.com/TL86R5GH1-U0281NV010D-b0903e6ed514-512"
             />
         </div>
     </div>
@@ -134,7 +143,7 @@ transition: slide-left
 <div className="w-[1000px] h-full mx-auto flex flex-col items-center justify-between">
     <div className="text-center italic">
         <div className="text-[5rem] font-bold text-yellow-400">
-          <span v-mark>LT 開催決定</span>
+          <span v-mark.yellow="0">LT 開催決定</span>
         </div>
     </div>
     <div className="text-left">
@@ -153,6 +162,5 @@ transition: slide-left
 transition: slide-left
 ---
 
-
-# Thanks For Listening
+# 最後に
 
