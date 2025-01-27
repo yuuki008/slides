@@ -152,14 +152,19 @@ transition: slide-left
 </div>
 
 ---
-transition: slide-left
+transition: slide-up
 ---
 
 <div className="text-[4.5rem] font-bold">Data Office Hours</div>
 <div className="text-gray-500 text-[2rem]">火曜日 16:00 ~ 18:00</div>
 
+
 ---
 transition: slide-left
+---
+
+ここにきてね
+
 ---
 
 # 最後に
