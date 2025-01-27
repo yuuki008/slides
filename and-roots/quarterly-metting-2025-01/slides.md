@@ -120,7 +120,7 @@ transition: slide-left
 # 宣伝
 
 ---
-transition: fade
+transition: slide-up
 ---
 
 <div className="text-[4.5rem] font-bold">ゆる D</div>
