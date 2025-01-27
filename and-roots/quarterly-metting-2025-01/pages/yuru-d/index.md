@@ -10,7 +10,7 @@ transition: slide-up
 ---
 
 <div className="text-[3rem] font-bold">
-  データ分析の勉強をゆるーくするコミュニティ
+  データ分析の勉強をゆるーくする会
 </div>
 
 ---
