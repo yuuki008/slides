@@ -25,6 +25,7 @@ transition: slide-left
 1. ビジョン
 2. 業務内容
 3. これから
+4. 宣伝
 
 ---
 transition: slide-left
@@ -173,4 +174,3 @@ transition: slide-left
 ---
 
 # 最後に
-
