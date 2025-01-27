@@ -2,14 +2,24 @@
 transition: slide-up
 ---
 
-<div className="text-[4.5rem] font-bold">ゆる D</div>
+<div className="text-[3.8rem] font-bold">ゆるふわデータサイエンス（通称：ゆる D）</div>
 <div className="text-gray-500 text-[2rem]">火曜日 19:00 ~ 21:00</div>
 
 ---
 transition: slide-up
 ---
 
-ゆる D をしている画像を表示
+<div className="text-[3rem] font-bold">
+  データ分析の勉強をゆるーくするコミュニティ
+</div>
+
+---
+transition: slide-up
+---
+
+#### `#s_yuru_d` でスタンプを押すだけ
+
+<img src="./04.png" className="w-[400px] rounded-lg" />
 
 ---
 transition: slide-left
