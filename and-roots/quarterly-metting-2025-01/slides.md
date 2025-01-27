@@ -116,6 +116,7 @@ transition: slide-left
 ---
 transition: slide-left
 ---
+
 # 宣伝
 
 ---
@@ -126,12 +127,16 @@ transition: slide-left
 <div className="text-gray-500 text-[2rem]">火曜日 19:00 ~ 21:00</div>
 
 <div v-click className="absolute bg-black top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
-<div className="w-[1000px] h-full mx-auto text-white py-20 flex flex-col items-center">
-    <div className="text-center italic">
-        <div className="text-[4rem] font-bold">LT 開催</div>
-        <div className="text-[1.8rem] font-semibold">2025/02/25 (Tue) 18:30~</div>
+    <div className="w-[1000px] h-full mx-auto text-white py-20 flex flex-col items-center">
+        <div className="text-center italic">
+            <div className="text-[4rem] font-bold text-yellow-400">
+              <v-after>
+                <span v-mark>LT 開催決定</span>
+              </v-after>
+            </div>
+            <div className="text-[1.5rem] font-semibold">2025/02/25 (Tue) 18:30~</div>
+        </div>
     </div>
-</div>
 </div>
 
 ---
