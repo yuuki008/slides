@@ -173,4 +173,4 @@ transition: slide-left
 
 ---
 
-# 最後に
+### thank you for listening...
