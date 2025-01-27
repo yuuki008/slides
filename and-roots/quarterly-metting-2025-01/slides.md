@@ -113,9 +113,38 @@ transition: slide-left
     </div>
 </div>
 
+---
+transition: slide-left
+---
+# 宣伝
 
 ---
 transition: slide-left
 ---
-# 最後に
+
+<div className="text-[4.5rem] font-bold">ゆる D</div>
+<div className="text-gray-500 text-[2rem]">火曜日 19:00 ~ 21:00</div>
+
+<div v-click className="absolute bg-black top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+<div className="w-[1000px] h-full mx-auto text-white py-20 flex flex-col items-center">
+    <div className="text-center italic">
+        <div className="text-[4rem] font-bold">LT 開催</div>
+        <div className="text-[1.8rem] font-semibold">2025/02/25 (Tue) 18:30~</div>
+    </div>
+</div>
+</div>
+
+---
+transition: slide-left
+---
+
+<div className="text-[4.5rem] font-bold">Data Office Hours</div>
+<div className="text-gray-500 text-[2rem]">火曜日 16:00 ~ 18:00</div>
+
+---
+transition: slide-left
+---
+
+
+# Thanks For Listening
 
