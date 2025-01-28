@@ -135,19 +135,8 @@ hide: false
 ---
 
 ---
-transition: slide-up
----
-
-<div className="text-[4.5rem] font-bold">Data Office Hours</div>
-<div className="text-gray-500 text-[2rem]">火曜日 16:00 ~ 18:00</div>
-
-
----
-transition: slide-left
----
-
-場所の画像を表示
-
+src: ./pages/data-office-hours/index.md
+hide: false
 ---
 
 ### thank you for listening...
