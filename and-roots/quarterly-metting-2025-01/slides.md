@@ -44,7 +44,7 @@ transition: slide-up
 ### 業務内容
 
 - データの基盤を作る
-- データを活用する
+- データを使う
 
 ---
 src: ./pages/datawarehouse/index.md
