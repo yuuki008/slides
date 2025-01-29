@@ -21,7 +21,6 @@ transition: slide-up
 transition: slide-up
 ---
 
-### 5F
-
+<div className="text-[4.5rem] font-bold mb-4">5F</div>
 <img src="./01.png" className="w-[500px] rounded-lg" />
 
