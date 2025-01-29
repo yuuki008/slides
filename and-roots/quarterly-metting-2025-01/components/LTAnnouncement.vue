@@ -17,43 +17,34 @@ export default {
 
 <style>
 .yellow-neon {
+  font-size: 5rem;
   font-family: "BPneon", "Comfortaa", cursive;
-  padding-top: 20px;
+  text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
+    color: #fff6a9;
   text-align: center;
-  color: rgba(255, 232, 50, 0.9);
-  text-shadow: 0 0 5px rgba(255, 245, 0, 1), 0 0 28px rgba(255, 44, 0, 0.9),
-    0 8px 38px black, 0 8px 10px black, 0 2px 12px black,
-    0 0 50px rgba(255, 120, 0, 0.5), 0 0 24px rgba(255, 255, 255, 0.8);
-  -webkit-text-stroke: 1px rgba(255, 160, 0, 0.45);
-  -webkit-animation: flicker 1s 1s, glow 1.5s ease-in-out infinite 2s;
-  -moz-animation: flicker 1s 1s, glow 1.5s ease-in-out infinite 2s;
-  animation: flicker 1s 1s, glow 1.5s ease-in-out infinite 2s;
+  animation: blink 12s infinite;
+  -webkit-animation: blink 12s infinite;
 }
 
-@-webkit-keyframes flicker {
-    0% {
-        color: #fff;
-        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px rgba(255, 232, 50, 0.9), 0 0 70px rgba(255, 232, 50, 0.9), 0 0 80px rgba(255, 232, 50, 0.9), 0 0 100px rgba(255, 232, 50, 0.9), 0 0 150px rgba(255, 232, 50, 0.9);
-    }
-    15% {
-        color: #222;
-        text-shadow: none;
-    }
-    25% {
-        color: #fff;
-        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px rgba(255, 232, 50, 0.9), 0 0 70px rgba(255, 232, 50, 0.9), 0 0 80px rgba(255, 232, 50, 0.9), 0 0 100px rgba(255, 232, 50, 0.9), 0 0 150px rgba(255, 232, 50, 0.9);
-    }
-    50% {
-        color: #222;
-        text-shadow: none;
-    }
-    75% {
-        color: #fff7cc;
-        text-shadow: 0 0 10px #b39800, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px rgba(255, 232, 50, 0.9), 0 0 70px rgba(255, 232, 50, 0.9), 0 0 80px rgba(255, 232, 50, 0.9), 0 0 75px rgba(255, 232, 50, 0.9), 0 0 100px rgba(255, 232, 50, 0.9);
-    }
-    100% {
-        color: #fff7cc;
-        text-shadow: 0 0 4px #b39800, 0 0 15px #fff099, 0 0 30px #fff099, 0 0 30px rgba(255, 232, 50, 0.9), 0 0 50px rgba(255, 232, 50, 0.9), 0 0 60px rgba(255, 232, 50, 0.9), 0 0 75px rgba(255, 232, 50, 0.9), 0 0 100px rgba(255, 232, 50, 0.9);
-    }
+@keyframes blink {
+  20%,
+  24%,
+  55% {
+    color: #111;
+    text-shadow: none;
+  }
+
+  0%,
+  19%,
+  21%,
+  23%,
+  25%,
+  54%,
+  56%,
+  100% {
+    text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
+    color: #fff6a9;
+  }
 }
+
 </style>
