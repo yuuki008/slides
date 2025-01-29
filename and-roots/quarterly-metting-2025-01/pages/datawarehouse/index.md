@@ -1,37 +1,49 @@
 ---
 title: データ基盤とは
-transition: slide-left
+transition: slide-up
 ---
 
 データの基盤とは
-### データを 1 か所に集めた倉庫のようなもの
+### データを集めて、整理している場所
+
 
 ---
-transition: slide-left
+transition: slide-up
+---
+
+### 図書館や倉庫のようなもの
+
+<div className="flex items-center justify-center">
+    <img className="w-[500px]" src="./library.jpeg" />
+    <img className="w-[550px]" src="./warehouse.png" />
+</div>
+
+---
+transition: slide-up
 ---
 
 ## データ基盤がなければ
 
 ---
-transition: slide-left
+transition: slide-up
 ---
 
 <img src="./01.jpg" />
 
 ---
-transition: slide-left
+transition: slide-up
 ---
 
 <img src="./02.jpg" />
 
 ---
-transition: slide-left
+transition: slide-up
 ---
 
 <img src="./03.jpg" />
 
 ---
-transition: slide-left
+transition: slide-up
 ---
 
 <img src="./04.jpg" />
@@ -40,7 +52,7 @@ transition: slide-left
 </div>
 
 ---
-transition: slide-left
+transition: slide-up
 ---
 
 ## データ基盤があれば

@@ -38,7 +38,7 @@ transition: slide-left
 ```
 
 ---
-transition: slide-left
+transition: slide-up
 ---
 
 ### 業務内容
@@ -52,11 +52,10 @@ hide: false
 ---
 
 ---
-transition: slide-left
+transition: slide-up
 ---
 
 # これから
-
 
 ---
 transition: slide-up
@@ -124,7 +123,7 @@ transition: slide-left
 </div>
 
 ---
-transition: slide-left
+transition: slide-up
 ---
 
 # 宣伝

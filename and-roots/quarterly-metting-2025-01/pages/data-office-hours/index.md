@@ -23,5 +23,3 @@ transition: slide-left
 
 <img src="./01.jpg" className="w-[500px] rounded-lg" />
 
----
-
