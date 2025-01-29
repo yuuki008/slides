@@ -17,7 +17,7 @@ transition: slide-up
 </div>
 
 ---
-transition: slide-up
+transition: fade
 ---
 
 #### `#s_yuru_d` でスタンプを押すだけ
