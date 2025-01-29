@@ -18,8 +18,10 @@ transition: slide-up
 
 
 ---
-transition: slide-left
+transition: slide-up
 ---
 
-<img src="./01.jpg" className="w-[500px] rounded-lg" />
+### ハイヒルズ 5 F
+
+<img src="./01.png" className="w-[500px] rounded-lg" />
 
