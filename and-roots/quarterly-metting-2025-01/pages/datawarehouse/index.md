@@ -22,6 +22,15 @@ transition: slide-up
 transition: slide-up
 ---
 
+## メリット
+
+- 準備せずにデータが使える
+- データが整理されていて使いやすい
+
+---
+transition: slide-up
+---
+
 ## データ基盤がなければ
 
 ---
@@ -59,12 +68,23 @@ transition: slide-up
 
 
 ---
-transition: slide-left
+transition: slide-up
 ---
 
 <img src="./05.jpg" />
 <div v-click className="absolute backdrop-blur-md top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
-<h2>データを準備せずに、使える</h2>
+<h2>準備せずにデータが使える</h2>
 </div>
 
+---
+transition: slide-up
+---
+
+<div className="text-[3.5rem] font-bold mb-4">
+  データが整理されていて使いやすい
+</div>
+<img
+  className="w-[500px] h-auto"
+  src="./supermarket.png"
+/>
 
