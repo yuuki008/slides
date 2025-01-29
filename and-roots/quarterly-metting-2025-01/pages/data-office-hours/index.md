@@ -21,7 +21,7 @@ transition: slide-up
 transition: slide-up
 ---
 
-### ハイヒルズ 5 F
+### 5F
 
 <img src="./01.png" className="w-[500px] rounded-lg" />
 
