@@ -25,7 +25,7 @@ transition: fade
 <img src="./04.png" className="w-[400px] rounded-lg" />
 
 ---
-transition: slide-left
+transition: fade
 ---
 
 <LTAnnouncement />
