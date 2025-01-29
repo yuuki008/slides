@@ -129,14 +129,15 @@ transition: slide-up
 # 宣伝
 
 ---
-src: ./pages/yuru-d/index.md
+src: ./pages/data-office-hours/index.md
 hide: false
 ---
 
 ---
-src: ./pages/data-office-hours/index.md
+src: ./pages/yuru-d/index.md
 hide: false
 ---
+
 
 ---
 
