@@ -43,8 +43,8 @@ transition: slide-up
 
 ### 業務内容
 
-- データの基盤を作る
-- データを使う
+- データ基盤の構築・保守
+- データから価値創出
 
 ---
 src: ./pages/datawarehouse/index.md
