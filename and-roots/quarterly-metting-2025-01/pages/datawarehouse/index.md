@@ -24,9 +24,9 @@ transition: slide-up
 ## メリット
 
 - 準備、加工せずにデータが使える
+- データが整理されている
 - 大量のデータを扱える
 - データの品質が高い
-- データが整理されている
 
 ---
 transition: slide-up
@@ -104,5 +104,24 @@ transition: slide-up
   <h2>大規模データを扱える</h2>
 </div>
 
+
+---
+transition: slide-up
+---
+
+#### 品質の悪い注文データ
+
+| 注文ID | 顧客ID | 顧客名   | 商品コード | 商品名 | 数量 | 支払い方法        | 配送先住所                     | 注文状況 | 電話番号       |
+|--------|--------|----------|------------|--------|------|--------------------|-------------------------------|----------|----------------|
+| 1001   | 1234   | 山田太郎 | P001       | 商品A  | 2    | <div v-mark.circle.blue=4>クレカ</div>            | 東京都新宿区西新宿1-1-1       | 処理中   | 090-1234-5678  |
+| <div v-mark.circle.red=1>1002</div>   | 1235   | 田中花子 | P002       | 商品B  |  <div v-mark.circle.yellow=2><div className="w-full text-white">K</div></div> | PayPal            | 大阪府大阪市北区梅田3-3-3      | 進行中   | 080-8765-4321  |
+| 1004   | 1236   | 佐藤次郎 | P003       | 商品C  | 1    | ペイパル           | 名古屋県名古屋市中区栄4-4-4    | 処理中   |  <div v-mark.circle.yellow=2><div className="w-full text-white">K</div></div> |
+| <div v-mark.circle.red=1>1002</div>    | 1235   | 田中花子 | P002       | 商品B  | 3    | PayPal             | 大阪府大阪市北区梅田3-3-3      | 進行中   | 080-8765-4321  |
+| 1006   | 1238   | 高橋四郎 | P005       | 商品E  | <div v-mark.circle.purple=3>abc</div>  | <div v-mark.circle.blue=4>クレジットカート</div>  | 北海道札幌市中央区大通6-6-6    | 処理中   | 090-3333-4444  |
+| 1008   | 1240   | 渡辺六郎 | P007       | 商品G  | 1    | <div v-mark.circle.blue=4>クレカ</div>             | 沖縄県那覇市久茂地8-8-8        | <div v-mark.circle.purple=3>unknown</div>  | 090-7777-8888  |
+
+<div v-click=5 className="absolute backdrop-blur-md top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+  <h2>データの品質を保っている</h2>
+</div>
 
 
