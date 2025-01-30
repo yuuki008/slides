@@ -1,6 +1,8 @@
 <template>
   <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
   <div class="neon-background absolute top-0 bg-black left-0 w-full h-full flex flex-col items-center transition-all duration-300">
+    <img src="../../pages/yuru-d/lt_01.jpg" class="w-[850px] rounded-2xl absolute top-10 right-10 grayscale-70 opacity-15" alt="LT Announcement" />
+    <img src="../../pages/yuru-d/lt_02.jpg" class="w-[700px] rounded-2xl absolute bottom-10 left-10 grayscale-70 opacity-10" alt="LT Announcement" />
     <div class="my-30 text-yellow-neon ">
       <div class="text-center text-[5rem] text-yellow-300 font-bold italic">
         Lightning Talks #3
