@@ -85,6 +85,6 @@ transition: slide-up
 </div>
 <img
   className="w-[500px] h-auto"
-  src="./supermarket.png"
+  src="./library_02.png"
 />
 
