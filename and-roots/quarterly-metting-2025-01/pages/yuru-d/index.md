@@ -26,6 +26,27 @@ transition: fade
 
 ---
 transition: fade
+hide: true
+---
+
+#### LT #2 へのご参加ありがとうございました！
+
+<div className="flex space-x-20 mt-20">
+  <img
+    src="../../pages/yuru-d/lt_01.jpg"
+    alt="LT"
+    className="w-[440px] h-auto rounded-lg"
+  />
+  <img
+    src="../../pages/yuru-d/lt_02.jpg"
+    alt="LT"
+    className="w-[440px] h-auto rounded-lg"
+  />
+</div>
+
+
+---
+transition: fade
 ---
 
 <LTAnnouncement />
