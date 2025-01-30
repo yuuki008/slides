@@ -71,7 +71,7 @@ transition: slide-up
 transition: slide-left
 ---
 
-<div className="flex w-[1400px] space-x-8 mx-auto h-full">
+<div className="flex items-start w-[1400px] space-x-8 mx-auto h-full">
     <div className="border rounded-xl shadow-xl p-8 flex-1">
         <div className="text-[45px] font-semibold text-center mb-6">
             基盤グループ
