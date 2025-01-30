@@ -41,7 +41,7 @@ export default {
     <div class="flex justify-between w-[1000px]">
       <template v-for="speaker in speakers" :key="speaker.name">
         <div class="box-blue-neon rounded-3xl overflow-hidden">
-          <img :src="speaker.url" class="w-[200px]" />
+          <img :src="speaker.url" class="w-[200px] opacity-80" />
         </div>
       </template>
     </div>
