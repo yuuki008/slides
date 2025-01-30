@@ -29,11 +29,11 @@ export default {
 <template>
   <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
   <div class="neon-background absolute top-0 bg-black left-0 w-full h-full flex flex-col items-center transition-all duration-300">
-    <div class="mt-30 mb-30">
-      <div class="text-yellow-neon text-center text-[5rem] text-yellow-300 font-bold italic">
+    <div class="my-30 text-yellow-neon ">
+      <div class="text-center text-[5rem] text-yellow-300 font-bold italic">
         Lightning Talks #3
       </div>
-      <div class="text-yellow-neon mt-4 text-[2rem] text-right">
+      <div class="mt-4 text-[2rem] text-right">
         2025-02-25 18:30
       </div>
     </div>
@@ -61,7 +61,7 @@ export default {
 
 /* box-shadow: [水平オフセット] [垂直オフセット] [ぼかし半径] [広がり半径] [色]; */
 .box-blue-neon {
-  border: 2px solid #00f;
+  border: 4px dashed #00f;
   box-shadow:
     0 0 5px #00f,
     0 0 10px #00f,

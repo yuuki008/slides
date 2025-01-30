@@ -1,8 +1,8 @@
 <template>
-  <div class="flex items-center p-3 rounded-xl border-2 bg-gray-50">
+  <div class="flex items-center p-2 rounded-xl border-2 bg-gray-50">
     <img
       :src="imageSrc"
-      class="w-[150px] h-[150px] rounded-3xl"
+      class="w-[120px] h-[120px] rounded-2xl"
       :alt="`${name}のプロフィール`"
     />
     <div class="ml-6">

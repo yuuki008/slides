@@ -69,18 +69,18 @@ transition: slide-up
 transition: slide-left
 ---
 
-<div className="relative flex items-center w-[1400px] space-x-8 mx-auto h-full">
+<div className="flex w-[1400px] space-x-8 mx-auto h-full">
     <div className="border rounded-xl shadow-xl p-8 flex-1">
         <div className="text-[45px] font-semibold text-center mb-6">
             基盤グループ
             <div className="text-gray-500 text-[28px]">
-            3 members+
+            3 members
             </div>
         </div>
-        <div className="space-y-8">
+        <div className="space-y-4">
             <MemberCard
               name="谷口 健太"
-              nickname="たぬー"
+              nickname="たぬ"
               imageSrc="https://ca.slack-edge.com/TL86R5GH1-UL86R5GV9-42d14dbc2420-512"
             />
             <MemberCard
@@ -99,19 +99,24 @@ transition: slide-left
         <div className="text-[45px] font-semibold text-center mb-6">
             活用グループ
             <div className="text-gray-500 text-[28px]">
-            3 members+
+            4 members
             </div>
         </div>
-        <div className="space-y-8">
+        <div className="space-y-4">
             <MemberCard
-              name="堀 順郎"
-              nickname="のぶろー"
-              imageSrc="https://ca.slack-edge.com/TL86R5GH1-U04QAP3048N-8b3f5f4127ed-512"
+              name="江口 修一"
+              nickname="しゅうさん"
+              imageSrc="https://ca.slack-edge.com/TL86R5GH1-UMDSHMQ0H-9b77af366853-512"
             />
             <MemberCard
               name="崎本 育直"
               nickname="いっくん"
               imageSrc="https://ca.slack-edge.com/TL86R5GH1-U039MJ5HN91-d2db0181d802-512"
+            />
+            <MemberCard
+              name="堀 順郎"
+              nickname="のぶろー"
+              imageSrc="https://ca.slack-edge.com/TL86R5GH1-U04QAP3048N-8b3f5f4127ed-512"
             />
             <MemberCard
               name="能村 優希"
