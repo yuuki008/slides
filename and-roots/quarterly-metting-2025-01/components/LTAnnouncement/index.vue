@@ -4,11 +4,11 @@
     <img src="../../pages/yuru-d/lt_01.jpg" class="w-[850px] rounded-2xl absolute top-10 right-10 grayscale-70 opacity-15" alt="LT Announcement" />
     <img src="../../pages/yuru-d/lt_02.jpg" class="w-[700px] rounded-2xl absolute bottom-10 left-10 grayscale-70 opacity-10" alt="LT Announcement" />
     <div class="my-30 text-yellow-neon ">
-      <div class="text-center text-[5rem] text-yellow-300 font-bold italic">
+      <div class="text-center tracking-wide text-[5.3rem] text-yellow-300 font-bold italic">
         Lightning Talks #3
       </div>
-      <div class="mt-4 text-[2rem] text-right">
-        2025-02-25 18:30
+      <div class="mt-2 text-[2rem] text-right font-semibold">
+        Tue, Feb 25, 18:30
       </div>
     </div>
 
@@ -68,7 +68,6 @@ export default {
 }
 
 .text-yellow-neon {
-  font-family: "BPneon", "Comfortaa", cursive;
   text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
   color: #fff6a9;
   animation: blink 5s infinite;
