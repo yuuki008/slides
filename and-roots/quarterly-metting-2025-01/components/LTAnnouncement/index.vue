@@ -31,7 +31,7 @@ export default {
   <div class="neon-background absolute top-0 bg-black left-0 w-full h-full flex flex-col items-center transition-all duration-300">
     <div class="my-30 text-yellow-neon ">
       <div class="text-center text-[5rem] text-yellow-300 font-bold italic">
-        Lighning Talks #3
+        Lightning Talks #3
       </div>
       <div class="mt-4 text-[2rem] text-right">
         2025-02-25 18:30
