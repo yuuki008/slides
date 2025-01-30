@@ -2,7 +2,7 @@
   <div class="flex items-center p-2 rounded-xl border-2 bg-gray-50">
     <img
       :src="imageSrc"
-      class="w-[120px] h-[120px] rounded-2xl"
+      class="w-[120px] h-[120px] rounded-2xl object-cover"
       :alt="`${name}のプロフィール`"
     />
     <div class="ml-6">

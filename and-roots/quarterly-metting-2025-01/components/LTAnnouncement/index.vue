@@ -31,6 +31,7 @@ export default {
   <div class="neon-background absolute top-0 bg-black left-0 w-full h-full flex flex-col items-center transition-all duration-300">
     <div class="my-30 text-yellow-neon ">
       <div class="text-center text-[5rem] text-yellow-300 font-bold italic">
+        <div v-click=""></div>
         Lightning Talks #3
       </div>
       <div class="mt-4 text-[2rem] text-right">
@@ -40,13 +41,16 @@ export default {
 
     <div class="flex justify-between w-[1000px]">
       <template v-for="speaker in speakers" :key="speaker.name">
-        <img :src="speaker.url" class="w-[200px] rounded-3xl box-blue-neon" />
+        <div class="box-blue-neon rounded-3xl overflow-hidden">
+          <img :src="speaker.url" class="w-[200px]" />
+        </div>
       </template>
     </div>
   </div>
 </template>
 
 <style>
+
 .neon-background {
   background: #222;
   background-image: repeating-linear-gradient(
@@ -58,21 +62,10 @@ export default {
   );
 }
 
-
 /* box-shadow: [水平オフセット] [垂直オフセット] [ぼかし半径] [広がり半径] [色]; */
 .box-blue-neon {
-  border: 4px dashed #00f;
-  box-shadow:
-    0 0 5px #00f,
-    0 0 10px #00f,
-    0 0 15px #00f,
-    0 0 20px #00f,
-    0 0 40px #00f,
-    0 0 60px #00f;
-  color: #fff;
-  filter: drop-shadow(10px 10px 200px #00f) drop-shadow(-10px -10px 50px #00f);
+  box-shadow: 10px 10px 150px #00f, -10px -10px 150px #00f;
 }
-
 
 .text-yellow-neon {
   font-family: "BPneon", "Comfortaa", cursive;

@@ -31,20 +31,22 @@ transition: slide-left
 transition: slide-left
 ---
 
-## ビジョン
+<div className="text-[3rem] font-bold">
+  "デジタル技術の専門家として、
+  <br/>
+  and roots の 1 人ひとりが事業の本質と向き合える時間を創る"
+</div>
 
-```
-デジタル技術の専門家として、and roots の 1 人ひとりが事業の本質と向き合える時間を創る
-```
+_— ビジョン_
 
 ---
 transition: slide-up
 ---
 
-### 業務内容
+## 業務内容
 
-- データ基盤の構築・保守
-- データから価値創出
+1. **データ基盤**の構築・保守
+2. データから**価値創出**
 
 ---
 src: ./pages/datawarehouse/index.md
@@ -91,7 +93,7 @@ transition: slide-left
             <MemberCard
               name="笹本 卓臣"
               nickname="もてぃ"
-              imageSrc="https://ca.slack-edge.com/TL86R5GH1-UMFSB9SNQ-69f53e3cc465-72"
+              imageSrc="/motty.jpg"
             />
         </div>
     </div>
