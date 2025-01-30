@@ -1,3 +1,25 @@
+<template>
+  <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+  <div class="neon-background absolute top-0 bg-black left-0 w-full h-full flex flex-col items-center transition-all duration-300">
+    <div class="my-30 text-yellow-neon ">
+      <div class="text-center text-[5rem] text-yellow-300 font-bold italic">
+        Lightning Talks #3
+      </div>
+      <div class="mt-4 text-[2rem] text-right">
+        2025-02-25 18:30
+      </div>
+    </div>
+
+    <div class="flex justify-between w-[1000px]">
+      <template v-for="speaker in speakers" :key="speaker.name">
+        <div class="box-blue-neon rounded-3xl overflow-hidden">
+          <img :src="speaker.url" class="w-[200px] opacity-80" alt="Speaker Image" />
+        </div>
+      </template>
+    </div>
+  </div>
+</template>
+
 <script>
 export default {
   name: "LTAnnouncement",
@@ -26,30 +48,7 @@ export default {
 };
 </script>
 
-<template>
-  <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
-  <div class="neon-background absolute top-0 bg-black left-0 w-full h-full flex flex-col items-center transition-all duration-300">
-    <div class="my-30 text-yellow-neon ">
-      <div class="text-center text-[5rem] text-yellow-300 font-bold italic">
-        Lightning Talks #3
-      </div>
-      <div class="mt-4 text-[2rem] text-right">
-        2025-02-25 18:30
-      </div>
-    </div>
-
-    <div class="flex justify-between w-[1000px]">
-      <template v-for="speaker in speakers" :key="speaker.name">
-        <div class="box-blue-neon rounded-3xl overflow-hidden">
-          <img :src="speaker.url" class="w-[200px] opacity-80" />
-        </div>
-      </template>
-    </div>
-  </div>
-</template>
-
 <style>
-
 .neon-background {
   background: #222;
   background-image: repeating-linear-gradient(
@@ -61,10 +60,9 @@ export default {
   );
 }
 
-/* box-shadow: [水平オフセット] [垂直オフセット] [ぼかし半径] [広がり半径] [色]; */
 .box-blue-neon {
-  animation: box-shadow-blink 5s infinite;
-  -webkit-animation: box-shadow-blink 5s infinite;
+  animation: box-shadow-blink 2s infinite alternate;
+  -webkit-animation: box-shadow-blink 2s infinite alternate;
 }
 
 .text-yellow-neon {
@@ -97,17 +95,27 @@ export default {
 }
 
 @keyframes box-shadow-blink {
+  0% {
+    box-shadow: 0 0 3px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ba9ca,
+                0 0 70px #0ba9ca, 0 0 80px #0ba9ca;
+  }
+  50% {
+    box-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 60px #0ba9ca,
+                0 0 100px #0ba9ca, 0 0 120px #0ba9ca;
+  }
   100% {
     box-shadow: 0 0 3px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ba9ca,
-      0 0 70px #0ba9ca, 0 0 80px #0ba9ca;
+                0 0 70px #0ba9ca, 0 0 80px #0ba9ca;
   }
 }
 
-@keyframes box-shadow-blink {
-  100% {
-    box-shadow: 0 0 3px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ba9ca,
-      0 0 70px #0ba9ca, 0 0 80px #0ba9ca;
-  }
+.text-yellow-neon {
+  transition: color 0.5s ease, text-shadow 0.5s ease;
 }
 
+/* カーソルをポインターに変更 */
+.cursor-pointer {
+  cursor: pointer;
+}
 </style>
+
