@@ -6,7 +6,6 @@ transition: slide-up
 データの基盤とは
 ### データを集めて、整理している場所
 
-
 ---
 transition: slide-up
 ---
@@ -25,7 +24,9 @@ transition: slide-up
 ## メリット
 
 - 準備、加工せずにデータが使える
-- データが整理されていて使いやすい
+- 大量のデータを扱える
+- データの品質が高い
+- データが整理されている
 
 ---
 transition: slide-up
