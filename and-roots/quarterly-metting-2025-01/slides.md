@@ -88,7 +88,7 @@ transition: slide-left
             <MemberCard
               name="國分 拓也"
               nickname="くぶたく"
-              imageSrc="https://ca.slack-edge.com/TL86R5GH1-U04DD6NLZQ9-8fe529d0275b-72"
+              imageSrc="/kubutaku.jpg"
             />
             <MemberCard
               name="笹本 卓臣"
