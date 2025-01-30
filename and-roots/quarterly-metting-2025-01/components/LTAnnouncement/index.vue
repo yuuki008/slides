@@ -63,7 +63,8 @@ export default {
 
 /* box-shadow: [水平オフセット] [垂直オフセット] [ぼかし半径] [広がり半径] [色]; */
 .box-blue-neon {
-  box-shadow: 10px 10px 150px #00f, -10px -10px 150px #00f;
+  animation: box-shadow-blink 5s infinite;
+  -webkit-animation: box-shadow-blink 5s infinite;
 }
 
 .text-yellow-neon {
@@ -92,6 +93,20 @@ export default {
   100% {
     text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
     color: #fff6a9;
+  }
+}
+
+@keyframes box-shadow-blink {
+  100% {
+    box-shadow: 0 0 3px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ba9ca,
+      0 0 70px #0ba9ca, 0 0 80px #0ba9ca;
+  }
+}
+
+@keyframes box-shadow-blink {
+  100% {
+    box-shadow: 0 0 3px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ba9ca,
+      0 0 70px #0ba9ca, 0 0 80px #0ba9ca;
   }
 }
 
