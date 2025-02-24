@@ -54,3 +54,71 @@ src: ./pages/save-country/index.md
 ---
 src: ./pages/google/index.md
 ---
+
+---
+transition: slide-up
+---
+
+<div className="font-semibold">OpenAI が <a href="https://chat.com">chat.com</a> を 24 億円で購入</div>
+
+<Tweet className="w-[550px] mt-6" id="1854307883304792294"/>
+
+
+---
+transition: slide-up
+---
+
+**Netflix は別の会社名だった**
+
+---
+transition: slide-up
+---
+
+**元々レンタルサービスで rent という会社名で始めようとした**
+
+
+---
+transition: slide-up
+---
+
+**`rent.com` は既に取得済みで 400 万ドルの値がついていた**
+
+---
+transition: slide-up
+---
+
+**しかたなく社名を `Netflix` に変更**
+
+
+---
+transition: slide-up
+---
+
+<img
+  src="https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSsz4bZp8s7ZIUayzz7FIOsBwX50pgJwQI6nEeSmPLibqooUmgjZ8wWjPmhDOZw68sJEwPXkXw0buZgpbY"
+  className="w-[320px] h-[320px] mx-auto object-cover mb-10 rounded-full"
+/>
+
+> **会社名を決める前に、まず .com ドメインが空いているか調べろ。**
+
+_— Sam Altman_
+
+---
+transition: slide-up
+---
+
+**ちなみに Netflix はレンタルサービス時代に <a href="https://dvd.com">dvd.com</a> を高額で購入**
+
+---
+transition: slide-up
+---
+
+### ドメインの数だけドラマがある
+
+---
+transition: slide-up
+---
+
+### 参考サイト
+
+https://あなたの知らないドメインの.世界
