@@ -23,12 +23,12 @@ https://<span v-mark.underline.red=1>youtube.com</span>/watch?v=androots
 </div>
 
 ---
-transition: slide-left
+transition: slide-up
 ---
 
 ## ドメインの歴史
 
-<!-- スライド「ドメインの歴史」では、初期の一元管理からDNS誕生までの流れを簡潔に説明します。 -->
+<!-- ここでは、初期のIPアドレスでの通信から、名前と住所の一元管理、DNS誕生までの流れを説明します。 -->
 
 ---
 transition: slide-up
@@ -36,7 +36,7 @@ transition: slide-up
 
 ### インターネットの仕組み
 
-IP アドレスと呼ばれる数字で通信している
+- コンピューター同士は「IP アドレス」と呼ばれる数字で通信している
 
 ---
 transition: slide-up
@@ -44,9 +44,8 @@ transition: slide-up
 
 ### インターネット初期
 
-通信相手 IP アドレスをの宛先に指定してやり取りしていた
-<br/>
-相手の IP アドレスを全て覚えなければならない
+- 通信相手のIPアドレスを直接宛先に指定してやり取りしていた
+- 相手のIPアドレスを全て覚えなければならなかった
 
 ---
 transition: slide-up
@@ -62,11 +61,13 @@ transition: slide-up
     </h2>
 </div>
 
+<!-- ※ 画像 "./01.png" は、数字だけのIPアドレスが羅列されたリストや、混乱する様子を表す図が効果的です。 -->
+
 ---
 transition: slide-up
 ---
 
-### 1 箇所で名前と住所を管理
+### 名前と住所を一括管理
 
 <div>
     <table className="max-w-[500px] max-auto">
@@ -93,6 +94,8 @@ transition: slide-up
     </table>
 </div>
 
+<!-- ※ 表は、ドメイン（名前）とIPアドレス（住所）の対応表を示し、名前で管理するメリットを直感的に伝えるのに役立ちます。 -->
+
 ---
 transition: slide-up
 ---
@@ -103,4 +106,6 @@ transition: slide-up
       住所を知らなくても通信できる
     </h2>
 </div>
+
+<!-- ※ 画像 "./02.jpg" は、DNSの仕組みにより、ユーザーがドメイン名を入力するだけで目的のウェブサイトに接続できる様子を表現した図やイラストを使用すると良いでしょう。 -->
 
