@@ -1,9 +1,11 @@
 ---
-transition: silde-up
+transition: slide-up
 ---
 
 ### ドメインが国を救う
 
+---
+transition: slide-up
 ---
 
 ### 国ごとにドメインが割り当てられている

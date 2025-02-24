@@ -97,7 +97,7 @@ transition: slide-up
 <!-- ※ 表は、ドメイン（名前）とIPアドレス（住所）の対応表を示し、名前で管理するメリットを直感的に伝えるのに役立ちます。 -->
 
 ---
-transition: slide-up
+transition: slide-left
 ---
 
 <img src="./02.jpg" className="w-[1200px] h-auto"/>
