@@ -110,7 +110,7 @@ transition: slide-up
 **ちなみに Netflix はレンタルサービス時代に <a href="https://dvd.com">dvd.com</a> を高額で購入**
 
 ---
-transition: slide-up
+transition: slide-left
 ---
 
 ### ドメインの数だけドラマがある
