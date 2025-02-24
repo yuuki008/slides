@@ -36,29 +36,10 @@ transition: slide-left
 2. ドメインの歴史
 3. 面白いドメインの世界
 
----
-transition: slide-up
----
-
-## ドメインとは
 
 ---
-transition: slide-up
+src: ./pages/what-is-domain.md
 ---
-
-### インターネット上の住所
-
----
-transition: slide-left
----
-
-<div className="font-semibold text-[45px] italic">
-https://<span v-mark.underline.red=1>androots.co.jp</span>
-<br/>
-https://<span v-mark.underline.red=1>google.com</span>/search?q=androots
-<br/>
-https://<span v-mark.underline.red=1>youtube.com</span>/watch?v=androots
-</div>
 
 ---
 transition: slide-up
