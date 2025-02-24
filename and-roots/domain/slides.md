@@ -45,43 +45,8 @@ src: ./pages/domain/index.md
 transition: slide-up
 ---
 
-## ドメインの歴史
+## 面白いドメインの世界
 
 ---
-transition: slide-up
+src: ./pages/tv/index.md
 ---
-
-### インターネットの仕組み
-
----
-transition: slide-up
----
-
-**コンピューター同士のやり取りは IP アドレスで行われる**
-
----
-transition: slide-up
----
-
-**ドメイン名を IP アドレスに変換している**
-
-https://androots.co.jp -> 157.7.107.156
-
----
-transition: slide-up
----
-
-### ドメイン登場前は IP アドレスでやり取り
-
-<div v-click className="absolute backdrop-blur-md top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
-<h2>覚えられないよ</h2>
-</div>
-
----
-transition: slide-up
----
-
-### ドメインの登場
-
-電話帳のようにドメインと IP アドレスを対応させる仕組みが生まれた
-
