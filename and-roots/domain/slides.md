@@ -38,7 +38,7 @@ transition: slide-left
 
 
 ---
-src: ./pages/what-is-domain.md
+src: ./pages/domain/index.md
 ---
 
 ---
