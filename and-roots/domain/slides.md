@@ -68,6 +68,8 @@ transition: slide-up
 transition: slide-up
 ---
 
+<img src="./pages/netflix.png" className="w-[250px] rounded-lg overflow-hidden  mx-auto object-cover mb-20"/>
+
 **Netflix は別の会社名だった**
 
 ---
@@ -114,6 +116,33 @@ transition: slide-left
 ---
 
 ### ドメインの数だけドラマがある
+
+
+---
+transition: slide-up
+---
+
+## 最後に
+
+---
+transition: slide-up
+---
+
+<img
+  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqoS8ROvKIrWw_aW90MkfICgdTvGVWEbjIZHpgHDc0Z0faO-NkiBRPpf4gjeG6ojnDQlytHv5QKzivKtUrtDUaANQOlhX5j1iWakOPCzcbbb3FcqiJ9pSOhyphenhyphenZmFhKrmFtSPmLtOFDsHl_j/s800/website_phishing.png"
+  className="w-[500px] mx-auto object-cover mb-10"
+/>
+
+### 詐欺サイトはドメインで見分ける
+
+サイトの見た目や内容は偽装できるが、ドメインだけは偽装できない
+
+
+---
+transition: slide-up
+---
+
+### 自分のドメインを買ってみよう
 
 ---
 transition: slide-up
