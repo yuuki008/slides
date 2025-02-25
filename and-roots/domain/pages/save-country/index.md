@@ -19,7 +19,7 @@ transition: slide-up
 transition: slide-up
 ---
 
-<img src="./01.png" className="w-[500px] h-auto mx-auto mb-20"/>
+<img src="./01.png" className="w-[500px] shadow-xl rounded-sm h-auto mx-auto mb-20"/>
 
 **人工約 1 万人の島国であるツバルのドメインは `.tv`**
 
@@ -40,7 +40,7 @@ transition: slide-up
 ---
 transition: slide-up
 ---
-<img src="./02.png" className="w-[500px] h-auto mx-auto mb-20"/>
+<img src="./02.png" className="w-[500px] shadow-xl rounded-sm h-auto mx-auto mb-20"/>
 
 **カリブ海の小さな島、アンギラのドメインは `.ai`**
 
