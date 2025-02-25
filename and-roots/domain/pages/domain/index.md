@@ -101,7 +101,7 @@ transition: slide-left
 ---
 
 <img src="./02.jpg" className="w-[1200px] h-auto"/>
-<div v-click className="absolute backdrop-blur-md top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
     <h2>
       住所を知らなくても通信できる
     </h2>

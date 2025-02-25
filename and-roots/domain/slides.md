@@ -142,7 +142,15 @@ transition: slide-up
 transition: slide-up
 ---
 
-### 自分のドメインを買ってみよう
+**インターネットの世界で誰にも縛られることなく、**
+<br/>
+**自由に表現できるプラットフォームを持つ**
+
+---
+transition: slide-up
+---
+
+### あなたもドメインを買ってみませんか？
 
 ---
 transition: slide-up
