@@ -55,9 +55,9 @@ transition: slide-up
   className="w-[1000px] h-auto"
   src="./01.png"
 />
-<div v-click className="absolute backdrop-blur-md top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
     <h2>
-      相手の住所を覚えられない
+      相手の住所を覚えてられない
     </h2>
 </div>
 

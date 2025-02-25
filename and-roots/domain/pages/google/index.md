@@ -24,9 +24,9 @@ transition: slide-up
 ---
 
 <img src="./services.png" className="w-[1000px] h-auto mx-auto mb-20"/>
-<div v-click className="absolute backdrop-blur-md top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
     <h2>
-      Google のサービスが使えなくなる
+      Google のサービスがほぼ全て使えなくなる
     </h2>
 </div>
 
