@@ -142,15 +142,19 @@ transition: slide-up
 transition: slide-up
 ---
 
-**インターネットの世界で誰にも縛られることなく、**
+ドメインを持つということは、
 <br/>
-**自由に表現できるプラットフォームを持つ**
+**インターネット上で自分だけの自由な居場所を持つこと**
 
 ---
 transition: slide-up
 ---
 
-### あなたもドメインを買ってみませんか？
+<div className="text-center text-[160px]">
+😎
+</div>
+
+### 自分だけのドメインを取ってみよう
 
 ---
 transition: slide-up
