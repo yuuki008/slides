@@ -1,0 +1,46 @@
+{
+  "name": "slidev-theme-growthhack",
+  "version": "0.0.0",
+  "type": "module",
+  "keywords": [
+    "slidev-theme",
+    "slidev"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "build": "slidev build example.md",
+    "dev": "slidev example.md --open",
+    "export": "slidev export example.md",
+    "screenshot": "slidev export example.md --format png"
+  },
+  "files": [
+    "styles",
+    "setup"
+  ],
+  "dependencies": {
+    "@slidev/types": "^51.0.2"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^51.0.2",
+    "playwright-chromium": "^1.50.0",
+    "postcss": "^8.5.1",
+    "rimraf": "^6.0.1"
+  },
+  "//": "Learn more: https://sli.dev/guide/write-theme.html",
+  "slidev": {
+    "colorSchema": "both",
+    "highlighter": "both",
+    "// slidev config": "https://github.com/slidevjs/slidev/blob/v0.42.5/packages/types/src/config.ts",
+    "defaults": {
+      "routerMode": "hash",
+      "canvasWidth": 1580,
+      "selectable": true,
+      "highlighter": "shiki",
+      "fonts": {
+        "mono": "Fira Code"
+      }
+    }
+  }
+}
