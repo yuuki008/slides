@@ -35,12 +35,15 @@ seoMeta:
 
 ---
 
-### 身近に使っている Web のことをどれだけ知っていますか？
+<img src="./public/gakuzen-girl.png" class="w-[350px] h-auto rounded-lg"/>
+<h4>
+  身近だけどよくわからない Web
+</h4>
 
 ---
 
-- Web が何かわかる
-- インターネットとの違いがわかる
+- 🎯 Web が何かわかる
+- 🔍 インターネットとの違いがわかる
 
 ---
 
@@ -53,7 +56,6 @@ seoMeta:
 ---
 
 ## 1. Webって何？
-
 
 ---
 
