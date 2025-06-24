@@ -97,9 +97,12 @@
     @apply mt-0;
   }
 
-  p,
-  h1 + p {
-    @apply my-10 leading-[1.6] opacity-100;
+  h1 {
+    @apply my-10;
+  }
+
+  p {
+    @apply leading-[1.6] opacity-100 my-0;
   }
 
   iframe {

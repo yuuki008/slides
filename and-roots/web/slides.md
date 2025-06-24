@@ -110,50 +110,147 @@ Web はインターネットの上で動く一つのサービス
 
 ---
 
-### 1960年代〜
-
-- インターネットの原型「ARPANET」誕生
-- 軍事目的で開発、最初のメッセージは「LO」だけ送信されてクラッシュ
+### インターネットの誕生
 
 ---
 
-### 1980年代〜
-
-- インターネットの基礎技術「TCP/IP」標準化（1983年）
-- 世界中の大学や研究機関がつながり始める
-- 日本では「JUNET」誕生（1984年）
-
----
-
-### 1990年代〜
-
-- ティム・バーナーズ＝リーが「World Wide Web」発明（1991年）
-- 世界初のWebサイトは「情報のための情報」
-- 「Yahoo!」「Google」など検索エンジン登場
+<img src="./before-internet.png" className="w-[1000px] h-auto rounded-lg border-4 border-black"/>
+<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+    <h2>
+      元々、コンピューターは孤立していた
+    </h2>
+</div>
 
 ---
 
-### 2000年代〜
-
-- SNSの登場（mixi, Facebook, Twitter）で人と人がつながる
-- YouTubeで動画共有が一般化
-- 「Web 2.0」＝みんなが参加するWebへ
-
----
-
-### 2010年代〜
-
-- スマートフォン普及で「いつでもどこでもWeb」
-- InstagramやTikTokなど新しいSNSが流行
-- クラウドサービスが生活の一部に
+<div class="text-right">
+<b>インターネットの原型となる ARPANET が誕生</b>
+<br/>
+(1969年)
+</div>
 
 ---
 
-### 2020年代〜
+<img src="./after-internet.png" className="w-[1000px] h-auto rounded-lg border-4 border-black"/>
+<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+    <h2>
+      コンピューター同士がつながった
+    </h2>
+</div>
 
-- AIやIoTでWebがさらに進化
-- メタバースやWeb3など新しいWebの形が登場
-- インターネット利用者は世界人口の約65%に！
+---
+
+**どんどんコンピューターが増えて、インターネットが大きくなった**
+
+---
+
+<img src="./submarine-cable.jpg" className="w-[1200px] h-auto rounded-lg "/>
+<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+  <h3>
+    海底ケーブルで大陸を繋ぐ
+  </h3>
+</div>
+
+---
+
+<img src="./world-internet.png" className="w-[1000px] h-auto rounded-lg border-4 border-black"/>
+<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+  <h3>
+    世界中の人と繋がれるようになった
+  </h3>
+</div>
+
+---
+
+### Web の誕生
+
+---
+
+#### 🚨 Web以前の問題点
+
+---
+
+**情報はあるが、見つからない**
+
+---
+
+#### 利用可能なサービス
+
+📧 E-mail: メッセージ交換
+<br/>
+📁 FTP: ファイル転送
+<br/>
+💻 Telnet: 遠隔ログイン
+<br/>
+📰 Usenet: 電子掲示板
+
+---
+
+#### 深刻な課題
+
+🔍 どこに何があるか分からない
+<br/>
+🔧 サービスごとに異なるコマンド
+<br/>
+⏰ 情報収集に数週間
+<br/>
+🤝 口コミと紹介が中心
+
+---
+
+🎯 例: 「人工知能の最新研究について調べたい」
+
+---
+
+1. 📚 大学図書館でコンピューター雑誌を調べる
+   <br/>
+   → 「○○大学の△△教授が有名」という情報発見
+
+---
+
+2. ☎️ ○○大学に電話
+   <br/>
+   → 「学会出張中です、来週お戻りです」
+
+---
+
+3. ☎️ △△教授と連絡成功
+   <br/>
+   → 「××研究所の◇◇さんに聞いてください」
+
+---
+
+4. ☎️ ××研究所に電話
+   <br/>
+   → 「論文リストを郵送します」
+
+---
+
+5. 📮 資料到着・確認
+   <br/>
+   → さらに詳しい情報が必要なら、また人探し...
+
+---
+
+<div class="text-center mt-4 p-3 bg-yellow-100 rounded">
+<strong>結果: 一つの情報を得るのに1-2ヶ月</strong>
+</div>
+
+---
+
+### 🌐 World Wide Web の誕生
+
+---
+
+<div class="mb-10">
+<img
+  src="https://cdn.britannica.com/22/221822-050-3B0A657F/British-scientist-Tim-Berners-Lee.jpg"
+  className="w-[320px] h-[320px] mx-auto object-cover mb-4 rounded-full"
+/>
+<div class="italic text-center text-xl">— Tim Berners-Lee</div>
+</div>
+
+> **クリック一つで関連情報に飛べるシステムを作ろう！**
 
 ---
 
