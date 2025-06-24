@@ -1,31 +1,37 @@
 ---
 theme: ./theme
 title: あなたの知らない Web の世界
-favicon: /ando_icon.webp
+favicon: /profile.jpeg
 mdc: true
 transition: slide-left
 colorSchema: light
 fonts:
-  # basically the text
-  sans: Robot
-  serif: Robot Slab
+  sans: Roboto
+  serif: Roboto Slab
   mono: Fira Code
-# random image from a curated Unsplash collection by Anthony
-# like them? see https://unsplash.com/collections/94734566/slidev
-background: https://cover.sli.dev
-# some information about your slides (markdown enabled)
-info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
 
-  Learn more at [Sli.dev](https://sli.dev)
+info: |
+  ## あなたの知らない Web の世界
+  このスライドでは、Webの基本から歴史、そしてWebを支える技術までをわかりやすく解説します。
+
+  「Webって何？」という素朴な疑問から、インターネットとの違い、Webの誕生秘話、現代のWebを支える仕組みまで、
+  知っているようで知らないWebの世界を一緒に探検しましょう！
 
 # open graph
-# seoMeta:
-#  ogImage: https://cover.sli.dev
+seoMeta:
+  ogImage: ./public/profile.jpeg
 ---
 
-## あなたの知らない Web の世界
+<div class="text-right">
+<h2>あなたの知らない Web の世界</h2>
+<div class="flex items-center justify-end">
+  <img 
+    src="./public/profile.jpeg" 
+    class="w-[80px] h-[80px] object-cover mr-4 rounded-full"
+   />
+  <div class="font-semibold">のむ</div>
+</div>
+</div>
 
 ---
 
@@ -34,7 +40,6 @@ info: |
 1. Webって何？
 2. Web の歴史
 3. Webを支える技術
-4. Webの構成要素
 
 ---
 
