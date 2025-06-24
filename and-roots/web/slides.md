@@ -94,7 +94,7 @@ Web は
 <img src="./public/internet-service.png" class="w-[850px] h-auto rounded-lg border-4 border-black"/>
 <div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
   <h4>
-    インターネット上でさまざまなサービスが動いている
+    インターネット上ではいろんなサービスが動いている
   </h4>
 </div>
 
@@ -357,9 +357,12 @@ Web は
 
 ---
 
-<div class="text-right">
-<h4>次回: あなたの知らないダークウェブの世界</h4>
-〜インターネットの裏側〜
+<img src="./public/dark-web.png" className="w-[600px] h-auto rounded-lg"/>
+<div v-click className="absolute bg-white/80 top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+  <div class="text-right">
+    <h4>次回: あなたの知らないダークウェブの世界</h4>
+    〜インターネットの裏側〜
+  </div>
 </div>
 
 ---
