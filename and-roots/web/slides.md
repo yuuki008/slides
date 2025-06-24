@@ -4,7 +4,7 @@ title: あなたの知らない Web の世界
 favicon: /profile.jpeg
 mdc: true
 transition: slide-left
-colorSchema: light
+colorSchema: dark
 fonts:
   sans: Roboto
   serif: Roboto Slab
@@ -143,7 +143,7 @@ Web は
 ---
 
 <img src="./public/submarine-cable.jpg" className="w-[1200px] h-auto rounded-lg "/>
-<div v-click className="absolute bg-white/80 top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+<div v-click className="absolute bg-black/80 top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
   <h3>
     海底ケーブルで大陸を繋ぐ
   </h3>
@@ -206,9 +206,7 @@ Web は
 
 ---
 
-<div class="text-center mt-4 p-3 bg-yellow-100 rounded">
-  <strong>結果: 一つの情報を得るのに1-2ヶ月</strong>
-</div>
+**結果: 一つの情報を得るのに1-2ヶ月**
 
 ---
 
@@ -239,7 +237,7 @@ Web は
   className="w-[1200px] h-auto rounded-lg border-4 border-black"
 />
 
-<div v-click className="absolute bg-white/80 top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+<div v-click className="absolute bg-black/80 top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
     <h4>
       URL さえ知っていれば、情報にアクセスできる
     </h4>
@@ -260,7 +258,7 @@ Web は
   className="w-[600px] h-auto rounded-lg"
 />
 
-<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+<div v-click className="absolute bg-black/80 top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
     <h2>
       検索エンジンの登場
     </h2>
@@ -270,7 +268,7 @@ Web は
 
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjz4eicELxiclJtjqfVAPQjUWPrsp2R7ZvSHJyDYpATnC1G2hNuMn2VD-5D5rn5avNT8ivAa-QPC6lxuEZ_lyDiA7Te_iWA88rlqKmiGKnDcX4ACOScZadyLLlr6payCJDZ9X2Vx379FtG/s800/smartphone.png" className="w-[600px] h-auto rounded-lg"/>
 
-<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+<div v-click className="absolute bg-black/80 top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
     <h2>
       スマホの登場
     </h2>
@@ -279,10 +277,10 @@ Web は
 ---
 
 <img src="./public/increase.jpg" className="w-[1000px] h-auto rounded-lg"/>
-<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
-    <h4>
+<div v-click className="absolute bg-black/80 top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+    <h3>
       Web サイトが爆発的に増加
-    </h4>
+    </h3>
 </div>
 
 ---
@@ -322,6 +320,20 @@ Web は
 
 ---
 
+```html
+<html>
+  <head>
+    <title>and roots</title>
+  </head>
+  <body>
+    <h1>会社情報</h1>
+    <h1>ビジョン</h1>
+  </body>
+</html>
+```
+
+---
+
 ### HTTP
 
 **Web 上の情報をやり取りするためのルール**
@@ -352,13 +364,13 @@ Web は
 ### まとめ
 
 - **Web** はインターネット上で世界中の情報を繋ぐ仕組み
-- **URL, HTML, HTTP** の 3 つの技術で動いている
+- **URL, HTML, HTTP** で動いている
 - **ブラウザが Web サーバーと連携して、Web ページを表示している**
 
 ---
 
 <img src="./public/dark-web.png" className="w-[600px] h-auto rounded-lg"/>
-<div v-click className="absolute bg-white/80 top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+<div v-click className="absolute bg-black/80 top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
   <div class="text-right">
     <h4>次回: あなたの知らないダークウェブの世界</h4>
     〜インターネットの裏側〜
