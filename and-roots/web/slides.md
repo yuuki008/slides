@@ -25,8 +25,8 @@ seoMeta:
 <div class="text-right">
 <h2>あなたの知らない Web の世界</h2>
 <div class="flex items-center justify-end">
-  <img 
-    src="./public/profile.jpeg" 
+  <img
+    src="./public/profile.jpeg"
     class="w-[80px] h-[80px] object-cover mr-4 rounded-full"
    />
   <div class="font-semibold">のむ</div>
@@ -100,7 +100,7 @@ Web は
 
 ---
 
-**Web は、インターネット上で動く一つのサービス**
+### Web は、インターネット上で動く一つのサービス
 
 ---
 
@@ -232,8 +232,8 @@ Web は
 
 ---
 
-<img 
-  src="./public/androots_top.png" 
+<img
+  src="./public/androots_top.png"
   className="w-[1200px] h-auto rounded-lg border-4 border-black"
 />
 
@@ -253,8 +253,8 @@ Web は
 
 ---
 
-<img 
-  src="https://ds-b.jp/dsmagazine/files/libs/23313/t/202011261510166594.png?1701080794" 
+<img
+  src="https://ds-b.jp/dsmagazine/files/libs/23313/t/202011261510166594.png?1701080794"
   className="w-[600px] h-auto rounded-lg"
 />
 
