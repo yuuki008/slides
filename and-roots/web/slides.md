@@ -340,7 +340,13 @@ Web は
 
 ---
 
-### 3つの技術の連携
+<img src="./public/communicate-browser-and-server.png" class="w-[1000px] h-auto rounded-lg"/>
+
+<div v-click className="absolute bg-black/80 top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+  <h3>
+    3つの技術の連携
+  </h3>
+</div>
 
 ---
 
@@ -349,15 +355,10 @@ Web は
    - 例：`https://www.androots.co.jp`
 
 2. **HTTP**で「その情報をください」とお願い
-
-   - ブラウザがサーバーにリクエスト
-
 3. **HTML**で情報が返ってくる
-
-   - サーバーがページの内容を送信
-
 4. **ブラウザ**がHTMLを読んで画面に表示
-   - 私たちが見慣れたWebページに
+
+---
 
 ---
 
