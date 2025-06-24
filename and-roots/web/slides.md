@@ -210,7 +210,7 @@ Web は
 <div class="mb-10">
 <img
   src="https://cdn.britannica.com/22/221822-050-3B0A657F/British-scientist-Tim-Berners-Lee.jpg"
-  className="w-[320px] h-[320px] mx-auto object-cover mb-4 rounded-full"
+  className="w-[320px] h-[320px] mx-auto object-cover mb-4 rounded-full border-4 border-gray-500"
 />
 <div class="italic text-center text-xl">— Tim Berners-Lee</div>
 </div>
@@ -346,7 +346,7 @@ Web は
 
 ### まとめ
 
-- **Web**はインターネット上で世界中の情報を繋ぐ仕組み
+- **Web** はインターネット上で世界中の情報を繋ぐ仕組み
 - **URL, HTML, HTTP** の 3 つの技術で動いている
 - **ブラウザが Web サーバーと連携して、Web ページを表示している**
 
