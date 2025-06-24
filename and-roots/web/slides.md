@@ -42,7 +42,12 @@ info: |
 
 ---
 
-### ブラウザで見ているもの全て
+<img src="https://media.coschedule.com/uploads/2022/07/ivrpowers-web-browser.007.jpeg?w=1920&q=75" className="w-[1000px] h-auto rounded-lg"/>
+<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+    <h2>
+      ブラウザで見ているもの全て
+    </h2>
+</div>
 
 ---
 
@@ -280,12 +285,12 @@ Web はインターネットの上で動く一つのサービス
 
 ---
 
-### 🚀 Webの爆発的普及
-
-- 1991年: 1サイト
-- 1995年: 23,500サイト
-- 2000年: 17,000,000サイト
-- 2024年: 1,000,000,000+サイト
+<img src="./public/increase.png" className="w-[1000px] h-auto rounded-lg"/>
+<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+    <h2>
+      Web の爆発的普及
+    </h2>
+</div>
 
 ---
 
