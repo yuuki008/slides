@@ -299,9 +299,11 @@ Web は
 
 ---
 
-- URL
-- HTML
-- HTTP
+**URL**
+<br/>
+**HTML**
+<br/>
+**HTTP**
 
 ---
 
