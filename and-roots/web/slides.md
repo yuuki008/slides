@@ -51,14 +51,6 @@ info: |
 
 ---
 
-- ニュースサイト
-- ショッピングサイト
-- SNS
-- 動画サイト
-- 検索エンジン
-
----
-
 Web は
 <br/>
 **世界中の情報をつなぐ仕組み**
@@ -85,33 +77,25 @@ Web は
 
 ---
 
-**情報が行き交うための道路や線路のようなもの**
+<img src="./public/internet.png" class="w-[850px] h-auto rounded-lg border-4 border-black"/>
+<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+  <h4>
+    情報が行き交うための道路や線路のようなもの
+  </h4>
+</div>
 
 ---
 
-**Web は、インターネットの上で動く一つのサービス**
+<img src="./public/internet-service.png" class="w-[850px] h-auto rounded-lg border-4 border-black"/>
+<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+  <h4>
+    インターネット上でさまざまなサービスが動いている
+  </h4>
+</div>
 
 ---
 
-**インターネット上には他にも：**
-
-- メール
-- FTP
-- オンラインゲーム
-- SSH
-
----
-
-## 道路と車の関係
-
-**道路** = インターネット
-<br/>
-**車** = Web、メール、ゲームなど
-
----
-
-**つまり：**
-Web はインターネットの上で動く一つのサービス
+**Web は、インターネット上で動く一つのサービス**
 
 ---
 
@@ -154,7 +138,7 @@ Web はインターネットの上で動く一つのサービス
 ---
 
 <img src="./public/submarine-cable.jpg" className="w-[1200px] h-auto rounded-lg "/>
-<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+<div v-click className="absolute bg-white/80 top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
   <h3>
     海底ケーブルで大陸を繋ぐ
   </h3>
@@ -247,11 +231,6 @@ Web はインターネットの上で動く一つのサービス
 
 **and roots の URL を知っていれば、誰でも情報にアクセスできる**
 
-- ビジョン
-- 採用情報
-- サービス
-- ブログ
-
 ---
 
 ### 🎯 Webの革命的な特徴
@@ -296,11 +275,11 @@ Web はインターネットの上で動く一つのサービス
 
 ### 💡 Webがもたらした変化
 
-- 情報アクセス: 図書館→検索エンジン
-- コミュニケーション: 手紙→メール・SNS
-- ビジネス: 店舗→Eコマース
-- 学習: 教室→オンライン教育
-- エンターテイメント: テレビ→動画配信
+- 情報アクセス: 図書館 → 検索エンジン
+- コミュニケーション: 手紙 → メール・SNS
+- ビジネス: 店舗 → Eコマース
+- 学習: 教室 → オンライン教育
+- エンターテイメント: テレビ → 動画配信
 
 ---
 
