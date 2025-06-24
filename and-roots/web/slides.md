@@ -118,7 +118,7 @@ Web はインターネットの上で動く一つのサービス
 
 ---
 
-<img src="./before-internet.png" className="w-[1000px] h-auto rounded-lg border-4 border-black"/>
+<img src="./public/before-internet.png" className="w-[1000px] h-auto rounded-lg border-4 border-black"/>
 <div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
     <h2>
       元々、コンピューターは孤立していた
@@ -135,7 +135,7 @@ Web はインターネットの上で動く一つのサービス
 
 ---
 
-<img src="./after-internet.png" className="w-[1000px] h-auto rounded-lg border-4 border-black"/>
+<img src="./public/after-internet.png" className="w-[1000px] h-auto rounded-lg border-4 border-black"/>
 <div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
     <h2>
       コンピューター同士がつながった
@@ -148,7 +148,7 @@ Web はインターネットの上で動く一つのサービス
 
 ---
 
-<img src="./submarine-cable.jpg" className="w-[1200px] h-auto rounded-lg "/>
+<img src="./public/submarine-cable.jpg" className="w-[1200px] h-auto rounded-lg "/>
 <div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
   <h3>
     海底ケーブルで大陸を繋ぐ
@@ -157,7 +157,7 @@ Web はインターネットの上で動く一つのサービス
 
 ---
 
-<img src="./world-internet.png" className="w-[1000px] h-auto rounded-lg border-4 border-black"/>
+<img src="./public/world-internet.png" className="w-[1000px] h-auto rounded-lg border-4 border-black"/>
 <div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
   <h3>
     世界中の人と繋がれるようになった
