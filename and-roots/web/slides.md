@@ -72,7 +72,7 @@ Web は
 
 ---
 
-### インターネットとは
+### インターネットと何が違う？
 
 ---
 
@@ -89,7 +89,11 @@ Web は
 ---
 
 **インターネット上には他にも：**
-メール、チャット、ファイル共有、オンラインゲームなど
+
+- メール
+- FTP
+- オンラインゲーム
+- SSH
 
 ---
 
@@ -170,31 +174,7 @@ Web はインターネットの上で動く一つのサービス
 
 ---
 
-**情報はあるが、見つからない**
-
----
-
-#### 利用可能なサービス
-
-📧 E-mail: メッセージ交換
-<br/>
-📁 FTP: ファイル転送
-<br/>
-💻 Telnet: 遠隔ログイン
-<br/>
-📰 Usenet: 電子掲示板
-
----
-
-#### 深刻な課題
-
-🔍 どこに何があるか分からない
-<br/>
-🔧 サービスごとに異なるコマンド
-<br/>
-⏰ 情報収集に数週間
-<br/>
-🤝 口コミと紹介が中心
+**情報はあるけど見つからない**
 
 ---
 
@@ -233,12 +213,8 @@ Web はインターネットの上で動く一つのサービス
 ---
 
 <div class="text-center mt-4 p-3 bg-yellow-100 rounded">
-<strong>結果: 一つの情報を得るのに1-2ヶ月</strong>
+  <strong>結果: 一つの情報を得るのに1-2ヶ月</strong>
 </div>
-
----
-
-### 🌐 World Wide Web の誕生
 
 ---
 
@@ -254,6 +230,75 @@ Web はインターネットの上で動く一つのサービス
 
 ---
 
+### 🌐 World Wide Web が誕生
+
+---
+
+### 🌐 1991 年に最初の Web サイトが誕生
+
+<a href="http://info.cern.ch/hypertext/WWW/TheProject.html" target="_blank">http://info.cern.ch/hypertext/WWW/TheProject.html</a>
+
+---
+
+**and roots の URL を知っていれば、誰でも情報にアクセスできる**
+
+- ビジョン
+- 採用情報
+- サービス
+- ブログ
+
+---
+
+### 🎯 Webの革命的な特徴
+
+- クリックで関連ページに移動
+- ブラウザ一つで全てのサイトにアクセス
+- 専門知識不要 ( URL を知っていればだれでも情報を見れる )
+
+---
+
+<img 
+  src="https://ds-b.jp/dsmagazine/files/libs/23313/t/202011261510166594.png?1701080794" 
+  className="w-[600px] h-auto rounded-lg"
+/>
+
+<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+    <h2>
+      検索エンジンの登場
+    </h2>
+</div>
+
+---
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjz4eicELxiclJtjqfVAPQjUWPrsp2R7ZvSHJyDYpATnC1G2hNuMn2VD-5D5rn5avNT8ivAa-QPC6lxuEZ_lyDiA7Te_iWA88rlqKmiGKnDcX4ACOScZadyLLlr6payCJDZ9X2Vx379FtG/s800/smartphone.png" className="w-[600px] h-auto rounded-lg"/>
+
+<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+    <h2>
+      スマホの登場
+    </h2>
+</div>
+
+---
+
+### 🚀 Webの爆発的普及
+
+- 1991年: 1サイト
+- 1995年: 23,500サイト
+- 2000年: 17,000,000サイト
+- 2024年: 1,000,000,000+サイト
+
+---
+
+### 💡 Webがもたらした変化
+
+- 情報アクセス: 図書館→検索エンジン
+- コミュニケーション: 手紙→メール・SNS
+- ビジネス: 店舗→Eコマース
+- 学習: 教室→オンライン教育
+- エンターテイメント: テレビ→動画配信
+
+---
+
 ## 4. Webを支える技術
 
 ---
@@ -266,26 +311,20 @@ Web はインターネットの上で動く一つのサービス
 
 ### URL
 
----
-
 **Web 上の住所のようなもの**
 <br/>
 
-**例：https://www.google.com**
+**例：https://www.androots.co.jp**
 
 ---
 
 ### HTML
-
----
 
 **Web ページを作成するためのマークアップ言語**
 
 ---
 
 ### HTTP
-
----
 
 **Web 上の情報をやり取りするためのルール**
 
@@ -297,7 +336,7 @@ Web はインターネットの上で動く一つのサービス
 
 1. **URL**で「どこの情報が欲しいか」を指定
 
-   - 例：`https://news.example.com`
+   - 例：`https://www.androots.co.jp`
 
 2. **HTTP**で「その情報をください」とお願い
 
@@ -352,65 +391,19 @@ Web はインターネットの上で動く一つのサービス
 
 ---
 
-# 私たちの生活への影響
-
-<div class="grid grid-cols-2 gap-8">
-
-<div v-click="1">
-
-## 変わったこと
-
-- **情報収集**：図書館→検索エンジン
-- **買い物**：店舗→オンラインショッピング
-- **コミュニケーション**：電話→SNS・メッセージ
-- **エンターテイメント**：テレビ→動画配信
-- **学習**：教室→オンライン授業
-
-</div>
-
-<div v-click="2">
-
-## 未来の可能性
-
-- **AI**との自然な対話
-- **VR/AR**での没入体験
-- **IoT**との連携
-- **リアルタイム**翻訳・通訳
-- **パーソナライズ**された情報
-
-</div>
-
-</div>
-
-<div v-click="3" class="mt-8 text-center">
-
-**Webは私たちの生活を根本から変え、これからも進化し続けます**
-
-</div>
-
----
-
-layout: center
-class: text-center
-
----
-
 ### まとめ
 
-- **Web**はインターネット上で世界中の情報を繋ぐ仕組みの
+- **Web**はインターネット上で世界中の情報を繋ぐ仕組み
 - **URL, HTML, HTTP** の 3 つの技術で動いている
-- **ブラウザが Web サーバーが連携して、Web ページを表示している**
+- **ブラウザが Web サーバーと連携して、Web ページを表示している**
 
 ---
 
-## 次回
+<div class="text-right">
+<h4>次回: あなたの知らないダークウェブの世界</h4>
+〜インターネットの裏側〜
+</div>
 
 ---
 
-**あなたの知らないダークウェブの世界**
-
----
-
-# ご清聴ありがとうございました
-
-質問はありますか？
+### ご清聴ありがとうございました
