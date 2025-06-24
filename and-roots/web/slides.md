@@ -229,11 +229,20 @@ Web は
 
 ---
 
-**and roots の URL を知っていれば、誰でも情報にアクセスできる**
+<img 
+  src="./public/androots_top.png" 
+  className="w-[1200px] h-auto rounded-lg border-4 border-black"
+/>
+
+<div v-click className="absolute bg-white/80 top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+    <h4>
+      URL さえ知っていれば、情報にアクセスできる
+    </h4>
+</div>
 
 ---
 
-### 🎯 Webの革命的な特徴
+### 🎯 Web の革命的な特徴
 
 - クリックで関連ページに移動
 - ブラウザ一つで全てのサイトにアクセス
@@ -264,11 +273,11 @@ Web は
 
 ---
 
-<img src="./public/increase.png" className="w-[1000px] h-auto rounded-lg"/>
+<img src="./public/increase.jpg" className="w-[1000px] h-auto rounded-lg"/>
 <div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
-    <h2>
-      Web の爆発的普及
-    </h2>
+    <h4>
+      Web サイトが爆発的に増加
+    </h4>
 </div>
 
 ---
@@ -304,7 +313,7 @@ Web は
 
 ### HTML
 
-**Web ページを作成するためのマークアップ言語**
+**Web ページを作成するためのファイル形式**
 
 ---
 
@@ -332,46 +341,6 @@ Web は
 
 4. **ブラウザ**がHTMLを読んで画面に表示
    - 私たちが見慣れたWebページに
-
----
-
-## 5. Webの構成要素
-
----
-
-### Webサーバー
-
-- 情報を保管・提供する場所
-- 24時間365日動き続ける
-
----
-
-### ブラウザ
-
-- 情報を見るためのソフト
-- Chrome、Safari、Edgeなど
-- HTMLを読んで画面に表示
-
----
-
-### Webページ
-
-- 実際に見ている画面
-- 文字、画像、動画、リンク
-- サーバーからブラウザに送られる
-
----
-
-**この 3 つが連携して、Web ページを表示している**
-
----
-
-### 流れ
-
-1. **ブラウザ**がURLにアクセス
-2. **Webサーバー**にページを要求
-3. **サーバー**がHTMLファイルを送信
-4. **ブラウザ**がページを表示
 
 ---
 
