@@ -48,7 +48,7 @@ seoMeta:
 ---
 
 <img src="https://media.coschedule.com/uploads/2022/07/ivrpowers-web-browser.007.jpeg?w=1920&q=75" className="w-[1000px] h-auto rounded-lg"/>
-<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+<div v-click className="absolute bg-black/80 top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
     <h2>
       ブラウザで見ているもの全て
     </h2>
@@ -83,7 +83,7 @@ Web は
 ---
 
 <img src="./public/internet.png" class="w-[850px] h-auto rounded-lg border-4 border-black"/>
-<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+<div v-click className="absolute bg-black/80 top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
   <h4>
     情報が行き交うための道路や線路のようなもの
   </h4>
@@ -92,7 +92,7 @@ Web は
 ---
 
 <img src="./public/internet-service.png" class="w-[850px] h-auto rounded-lg border-4 border-black"/>
-<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+<div v-click className="absolute bg-black/80 top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
   <h4>
     インターネット上ではいろんなサービスが動いている
   </h4>
@@ -113,7 +113,7 @@ Web は
 ---
 
 <img src="./public/before-internet.png" className="w-[1000px] h-auto rounded-lg border-4 border-black"/>
-<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+<div v-click className="absolute bg-black/80 top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
     <h2>
       元々、コンピューターは孤立していた
     </h2>
@@ -130,7 +130,7 @@ Web は
 ---
 
 <img src="./public/after-internet.png" className="w-[1000px] h-auto rounded-lg border-4 border-black"/>
-<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+<div v-click className="absolute bg-black/80 top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
     <h2>
       コンピューター同士がつながった
     </h2>
@@ -152,7 +152,7 @@ Web は
 ---
 
 <img src="./public/world-internet.png" className="w-[1000px] h-auto rounded-lg border-4 border-black"/>
-<div v-click className="absolute backdrop-blur-xl top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
+<div v-click className="absolute bg-black/80 top-0 left-0 w-full h-full flex items-center justify-center transition-all duration-300">
   <h3>
     世界中の人と繋がれるようになった
   </h3>
@@ -164,7 +164,7 @@ Web は
 
 ---
 
-#### 🚨 Web以前の問題点
+#### 🚨 Web 以前の問題点
 
 ---
 
