@@ -64,7 +64,7 @@ seoMeta:
 
 ---
 
-**3. 全てを組み合わせて、表示する**
+**3. 組み合わせて、表示する**
 
 ---
 
@@ -83,7 +83,10 @@ seoMeta:
 
 ---
 
-<img src="https://ca.slack-edge.com/TL86R5GH1-U08DL5G5ULT-4aa9d8c881e9-512" class="w-[100px] h-[100px]"/>
+<div class="flex flex-col items-center gap-4">
+  <img src="https://ca.slack-edge.com/TL86R5GH1-U08DL5G5ULT-4aa9d8c881e9-512" class="w-[200px] h-[200px] rounded-full"/>
+  <p class="text-[35px] font-medium text-gray-800">のむさん、Dia しらないんですか？😏</p>
+</div>
 
 ---
 
@@ -100,7 +103,7 @@ seoMeta:
 
 ---
 
-**チャットで AI と会話しながら Web サイトを見れる**
+**チャットで AI と会話しながらブラウザを操作する**
 
 ---
 
@@ -131,5 +134,3 @@ seoMeta:
 **「Dia」使ってみてね！！**
 
 ---
-
-### ご清聴ありがとうございました
