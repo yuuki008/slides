@@ -1,6 +1,6 @@
 ---
 theme: ./theme
-title: あなたの知らないブラウザの世界️
+title: ブラウザの仕組みを爆速で理解
 favicon: /profile.jpeg
 mdc: true
 transition: slide-left
@@ -17,7 +17,7 @@ seoMeta:
 ---
 
 <div class="text-right">
-<h2>あなたの知らないブラウザの世界️</h2>
+<h2>ブラウザの仕組みを爆速で理解</h2>
 <div class="flex items-center justify-end">
   <img src="/profile.jpeg" class="w-[80px] h-[80px] object-cover mr-4 rounded-full" />
   <div class="font-semibold">のむ</div>
