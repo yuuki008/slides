@@ -79,6 +79,18 @@ seoMeta:
 
 ---
 
+<a href="https://www.otsuka.co.jp/cmt/to_programmer/cui/" target="_blank" class="text-blue-500">
+  <img src="/calorie-mate.svg" class="w-[500px] h-auto">
+</a>
+
+---
+
+<a href="https://claude.ai" target="_blank" class="text-blue-500">
+  <img src="/claude.png" class="w-[500px] h-auto text-[#D97757]"/>
+</a>
+
+---
+
 ## 🔥 このブラウザが熱い！！
 
 ---
