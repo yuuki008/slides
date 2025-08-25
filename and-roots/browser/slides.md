@@ -102,20 +102,18 @@ console.log("Hello, Browser DevTools!");
 
 ---
 
-<video src="/Dia-mention-tab.mp4" autoplay muted class="w-full h-auto rounded-lg"></video>
-
----
-
 ### カレンダーを確認して、Slack でメッセージを送る
 
 ---
 
-<video src="/Dia-Slack-Calendar.mp4" autoplay muted class="w-full h-auto rounded-lg"></video>
+### 普段使いそうなスキルをインストールする
+
+---
+
+### カスタムでスキルを作ってみよう
 
 ---
 
 <img src="/invite-to-dia.png" class="h-full w-auto rounded-2xl"/>
-
----
 
 ### ご清聴ありがとうございました
