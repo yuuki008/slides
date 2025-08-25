@@ -16,8 +16,6 @@ seoMeta:
   ogImage: /profile.jpeg
 ---
 
----
-
 <div class="text-right">
 <h2>あなたの知らないブラウザの世界️</h2>
 <div class="flex items-center justify-end">
@@ -113,6 +111,10 @@ console.log("Hello, Browser DevTools!");
 ---
 
 <video src="/Dia-Slack-Calendar.mp4" autoplay muted class="w-full h-auto rounded-lg"></video>
+
+---
+
+<img src="/invite-to-dia.png" class="h-full w-auto rounded-2xl"/>
 
 ---
 
