@@ -68,10 +68,6 @@ seoMeta:
 
 ---
 
-<img src="/communicate-browser-and-server.png" class="w-full h-auto rounded-lg border-4 border-white"/>
-
----
-
 ### 👀 開発者コンソールをのぞいてみよう
 
 - **開き方**: 右クリックから「検証」を選択
@@ -87,9 +83,28 @@ seoMeta:
 
 ---
 
+<img src="https://ca.slack-edge.com/TL86R5GH1-U08DL5G5ULT-4aa9d8c881e9-512" class="w-[100px] h-[100px]"/>
+
+---
+
 <a href="https://diabrowser.com" target="_blank">
 <img src="/dia.svg" class="w-[400px] h-auto">
 </a>
+
+---
+
+<div class="flex items-center justify-center leading-[100px]">
+<img src="/arc.svg" class="w-[100px] h-[100px] inline mx-2"/> を開発した
+<img src="/the-browser-company.svg" class="w-[100px] h-[100px] inline mx-2"/>が新しく開発したブラウザ！！
+</div>
+
+---
+
+**チャットで AI と会話しながら Web サイトを見れる**
+
+---
+
+**ちなみに今は Mac でしか使えません 😭**
 
 ---
 
@@ -109,11 +124,7 @@ seoMeta:
 
 ---
 
-**普段使いそうなスキルをインストールする**
-
----
-
-**カスタムでスキルを作ってみよう**
+**よく使うプロンプトを保存して使える**
 
 ---
 
