@@ -54,28 +54,26 @@ seoMeta:
 
 ---
 
-#### 1. 入力された URL から HTML をダウンロード
+**1. 入力された URL から HTML をダウンロード**
 
 ---
 
-#### 2. HTML を上からスキャンして CSS, Javascript, 画像ファイルなどを読み込む
+**2. HTML を上からスキャンして CSS, Javascript, 画像ファイルなどを読み込む**
 
 ---
 
-#### 3. 全てを組み合わせて、表示する
+**3. 全てを組み合わせて、表示する**
 
 ---
 
 ### 3) 開発者コンソールをのぞいてみよう
 
 - **開き方（macOS）**: `Cmd + Option + I`
-- **Elements**: 実際のDOMを確認・編集
+- **Elements**: HTML を確認・編集
 - **Network**: 通信の中身と速度を可視化
 - **Console**: ログと簡単なコード実行
-
-```js
-console.log("Hello, Browser DevTools!");
-```
+- **Sources**: ブラウザにダウンロードされたファイルを確認
+- **Application**: ブラウザに保存されたデータを確認
 
 ---
 
