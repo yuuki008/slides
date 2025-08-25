@@ -83,18 +83,16 @@ console.log("Hello, Browser DevTools!");
 
 ---
 
-### インターン生のいむが使ってた
-
----
-
-## 「Dia」
+<a href="https://diabrowser.com" target="_blank">
+<img src="/dia.svg" class="w-[400px] h-auto">
+</a>
 
 ---
 
 ## ここが熱い！！
 
 - 「ページを見ながらAIと会話」
-- 「タブをチャットで自在に操る」
+- 「タブをチャットで呼び出せる」
 - 「よく使う動作を保存して使える」
 
 ---
