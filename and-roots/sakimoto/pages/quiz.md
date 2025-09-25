@@ -53,7 +53,7 @@
   <div class="text-3xl">
   「あべ」や「Vega」が有名なので、お店で見かけたらぜひ！！
   </div>
-<div>
+</div>
 
 ---
 
