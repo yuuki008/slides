@@ -9,6 +9,10 @@ fonts:
   sans: Roboto
   serif: Roboto Slab
   mono: Fira Code
+info: |
+  このサイトは「いっくんを送る会」の特設ページです。  
+  クイズや懇親会など、参加型のコンテンツも用意しており、どなたでも気軽に楽しめます。  
+  いっくんを知る人も、これから知る人も、ぜひこのサイトを通じて温かい時間をお過ごしください！
 seoMeta:
   ogImage: /profile.jpeg
 ---
