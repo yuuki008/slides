@@ -21,7 +21,6 @@
   background-color: var(--slidev-slide-container-background);
 }
 
-
 /**
  * to override
  * - https://github.com/slidevjs/slidev/blob/v0.42.5/packages/client/styles/layouts-base.css
@@ -36,24 +35,38 @@
   --code-font-family: "Roboto Mono", "Fira Code", "PT Mono", Menlo, monospace;
   --quote-font-family: "Merriweather", serif;
   font-family: var(--font-family);
-  font-feature-settings: 'calt', 'liga', 'case', 'ss02', 'ss03';
+  font-feature-settings: "calt", "liga", "case", "ss02", "ss03";
 
   /**
    * screenshot box-shadow style
    * @apply border-1 border-[#ddd] rounded-xl shadow-2xl transform scale-90;
    */
 
-  h1 { @apply text-[104px] leading-[1.4] }
-  h2 { @apply text-7xl leading-[1.4] }
-  h3 { @apply text-6xl leading-[1.4] }
-  h4 { @apply text-5xl leading-[1.6] }
-  h5 { @apply text-[40px] leading-[1.6] }
+  h1 {
+    @apply text-[104px] leading-[1.4];
+  }
+  h2 {
+    @apply text-7xl leading-[1.4];
+  }
+  h3 {
+    @apply text-6xl leading-[1.4];
+  }
+  h4 {
+    @apply text-5xl leading-[1.6];
+  }
+  h5 {
+    @apply text-[40px] leading-[1.6];
+  }
 
-
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     @apply font-bold mx-0;
     letter-spacing: -0.01em;
-    margin-bottom: 0.8em;
+    margin-bottom: 0.2em;
     margin-top: 0.2em;
     font-family: var(--font-family);
   }
@@ -63,7 +76,8 @@
     letter-spacing: -0.02em;
   }
 
-  a, a:hover {
+  a,
+  a:hover {
     @apply border-none text-[#27e];
   }
 
@@ -71,7 +85,8 @@
     @apply underline decoration-3;
   }
 
-  ol, ul {
+  ol,
+  ul {
     @apply my-10 pl-10;
   }
 
@@ -147,7 +162,8 @@
   }
 }
 
-p, img {
+p,
+img {
   @apply max-w-full max-h-full;
 }
 
@@ -168,7 +184,8 @@ p, img {
       background: hsl(220, 13%, 16%);
     }
 
-    a, a:hover {
+    a,
+    a:hover {
       @apply text-[#49f];
     }
   }
