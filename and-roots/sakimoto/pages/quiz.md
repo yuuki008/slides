@@ -110,7 +110,7 @@
 
 <img src="/select-sake.jpeg" class="w-[400px] h-[300px] object-cover rounded-lg mb-10">
 <div class="font-bold text-[45px]">
-いっくんに飲みたい日本酒を 3 つ用意しました。
+いっくんの飲みたい日本酒を 3 つ買ってきました！
 </div>
 
 ---
