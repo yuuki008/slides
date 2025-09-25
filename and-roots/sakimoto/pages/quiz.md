@@ -73,7 +73,7 @@
 
 ---
 
-<img src="/ironman02.png" class="w-[350px] h-auto rounded-lg mb-10">
+<img src="/ironman.png" class="w-[350px] h-auto rounded-lg mb-10">
 <b>いっくんは、お酒と美味しい食べ物が大好きなアンアンマン</b>
 
 ---
