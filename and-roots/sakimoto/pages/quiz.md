@@ -22,6 +22,42 @@
 
 ---
 
+## 修行する酒造はどこ？
+
+
+- A. 瀧酒造 （兵庫県）
+- B. 阿部酒造 （新潟県）
+- C. 平野酒造 （岐阜県）
+- D. 石蔵酒造 （福岡県）
+
+
+---
+
+### B. 阿部酒造
+
+---
+
+<img src="/abe.webp" class="w-[350px] h-auto rounded-lg mb-20">
+<div class="text-3xl">
+1804 年から続く、新潟県柏崎市の酒蔵。
+</div>
+
+
+---
+
+<div>
+  <div class="flex space-x-10 mb-20">
+    <img src="/abe-black.webp" class="w-[400px] h-auto rounded-lg">
+    <img src="/vega.webp" class="w-[400px] h-auto rounded-lg">
+  </div>
+  <div class="text-3xl">
+  「あべ」や「Vega」が有名なので、お店で見かけたらぜひ！！
+  </div>
+<div>
+
+---
+
+
 ## 以下の食べ物を好きな順番に並べてください
 
 - A. カレー
