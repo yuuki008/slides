@@ -130,35 +130,75 @@
 
 ---
 
-### 田中六五（たなかろくじゅうご）
-
-福岡県糸島市の白糸酒造が造る純米酒。
-<br/>
-山田錦の旨味と酸味がバランスよく、食事に合うお酒です。
-
----
-
-### みむろ杉
-
-奈良県桜井市の今西酒造が造る日本酒です。
-<br/>
-すっきりとした飲み口と米の旨味が特徴で、食事によく合います。
-
----
-
-### 鳳凰 山田錦ヒヤオロシ
-
-栃木県の小林酒造が造る純米吟醸酒です。
-<br/>
-まろやかで上品な旨味が特徴で、秋の味覚によく合う季節限定の人気銘柄です。
+<div class="flex space-x-10 items-center">
+  <img src="/tanaka_65.jpg" class="w-[400px] h-auto object-cover rounded-lg">
+  <div class="flex-1">
+    <div class="text-[45px] font-bold mb-10">
+      田中六五（たなかろくじゅうご）
+    </div>
+    <div class="text-[30px]">
+      福岡県糸島市の白糸酒造が造る純米酒。
+      <br/>
+      山田錦の旨味と酸味がバランスよく、食事に合うお酒です。
+    </div>
+  </div>
+</div>
 
 ---
 
-### チャミスル
+<div class="flex space-x-30 items-center">
+  <img src="/mimuro_sugi.jpg" class="w-[300px] h-auto object-cover rounded-lg">
+  <div class="flex-1">
+    <div class="text-[45px] font-bold mb-10">
+      みむろ杉
+    </div>
+    <div class="text-[30px]">
+      奈良県桜井市の今西酒造が造る日本酒です。
+      <br/>
+      すっきりとした飲み口と米の旨味が特徴で、食事によく合います。
+    </div>
+  </div>
+</div>
 
-韓国の焼酎です。
-<br/>
-日本酒ではない。
+---
+
+<div class="flex space-x-30 items-center">
+  <img src="/hiyaoroshi.jpg" class="w-[400px] h-auto object-cover rounded-lg">
+  <div class="flex-1">
+    <div class="text-[45px] font-bold mb-10">
+      鳳凰 山田錦ヒヤオロシ
+    </div>
+    <div class="text-[30px]">
+      栃木県の小林酒造が造る純米吟醸酒です。
+      <br/>
+      まろやかで上品な旨味が特徴で、秋の味覚によく合う季節限定の人気銘柄です。
+    </div>
+  </div>
+</div>
+
+---
+
+<div class="flex space-x-30 items-center">
+  <img src="/chamisul.jpg" class="w-[150px] h-auto rounded-lg">
+  <div class="flex-1">
+    <div class="text-[45px] font-bold mb-10">
+      チャミスル（フレッシュ）
+    </div>
+    <div class="text-[30px]">
+      韓国の焼酎です。
+      <br/>
+      日本酒ではない。
+    </div>
+  </div>
+</div>
+
+---
+
+### チームの中から代表者を決めてください
+
+---
+
+**選ばれた方は、別の階へ移動してください。**
 
 ---
 
