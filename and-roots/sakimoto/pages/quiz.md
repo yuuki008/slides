@@ -48,6 +48,22 @@
 
 ---
 
+## 好きなアニメのキャラ
+
+- A. 李牧（キングダム）
+- B. キルア（Hunter x Hunter）
+- C. しかまる（ナルト）
+- D. 田中（ハイキュー）
+
+---
+
+## D. 田中（ハイキュー）
+
+---
+
+<img src="/tanaka.webp" class="w-[500px] h-auto rounded-lg">
+
+---
 
 ## 目標にしている大会は？
 
@@ -100,23 +116,6 @@
 ---
 
 <img src="/shimonoseki-marathon.jpg" class="w-full h-auto rounded-lg">
-
----
-
-## 好きなアニメのキャラ
-
-- A. 李牧（キングダム）
-- B. キルア（Hunter x Hunter）
-- C. しかまる（ナルト）
-- D. 田中（ハイキュー）
-
----
-
-## D. 田中（ハイキュー）
-
----
-
-<img src="/tanaka.webp" class="w-[500px] h-auto rounded-lg">
 
 ---
 
