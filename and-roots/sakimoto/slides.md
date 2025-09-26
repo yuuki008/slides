@@ -56,9 +56,6 @@ src: ./pages/quiz.md
 
 ---
 
-
----
-
 ### 🏮 しゅうさんからの日本酒
 
 <div class="flex flex-col items-center">
