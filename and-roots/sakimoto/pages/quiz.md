@@ -360,14 +360,3 @@
 </div>
 
 ---
-
-<div class="text-center">
-  <div class="text-[50px] font-bold mb-10">🎉 お疲れさまでした！ 🎉</div>
-  <div class="text-[30px]">
-    みなさん、いっくんのことをもっと知ることができましたか？<br/>
-    日本酒事業の成功を祈って、乾杯！🍶
-  </div>
-</div>
-
----
-
