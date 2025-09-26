@@ -62,16 +62,24 @@
 
 ---
 
+<div class="text-3xl">
+トライアスロンの中でも最も過酷と呼ばれている「アイアンマンレース」
+</div>
+
+---
+
 <div>
-  <div class="flex space-x-10 mb-20">
-    <img src="/ironman01.webp" class="w-[350px] h-auto rounded-lg">
-    <img src="/ironman02.webp" class="w-[350px] h-auto rounded-lg">
-    <img src="/ironman03.jpg" class="w-[350px] h-auto rounded-lg">
-  </div>
+  <iframe 
+    src="https://www.youtube.com/embed/qjxxYoL7nSU?autoplay=1&mute=1&controls=0&showinfo=0&start=6"
+    allow="autoplay; encrypted-media;"
+    class="!h-[500px] !w-[100%] mb-10"
+  >
+  </iframe>
   <div class="text-3xl">
-  トライアスロンの中でも最も過酷と呼ばれている「アイアンマンレース」
   </div>
 </div>
+
+---
 
 ---
 
