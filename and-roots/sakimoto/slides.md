@@ -53,6 +53,39 @@ src: ./pages/quiz.md
 
 ## 🍶 懇親会
 
+
+---
+
+
+---
+
+### 🏮 しゅうさんからの日本酒
+
+<div class="flex flex-col items-center">
+  <div class="text-4xl font-semibold mb-4">
+    <span class="text-blue-700 font-bold">阿部酒造</span>さんのお酒を
+    <span class="text-5xl text-red-600 font-bold">3本</span>用意してくれました！
+  </div>
+</div>
+
+---
+
+## 🥃 みずきさんからのお酒
+
+<div class="flex flex-col items-center">
+  <div class="text-4xl font-semibold mb-4">
+    みずきさんが<span class="text-5xl text-green-700 font-bold">焼酎</span>と
+    <span class="text-5xl text-blue-700 font-bold">日本酒</span>を
+    用意してくれました！
+  </div>
+  <div class="text-2xl">
+  </div>
+</div>
+
+---
+
+## 🥂 みんなで一緒に乾杯しましょう！
+
 ---
 
 <img src="/profile.jpeg" class="w-[250px] h-auto rounded-lg mb-6">
