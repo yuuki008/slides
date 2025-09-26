@@ -62,24 +62,40 @@
 
 ---
 
-<div class="text-3xl">
-トライアスロンの中でも最も過酷と呼ばれている「アイアンマンレース」
-</div>
-
----
-
 <div>
   <iframe 
-    src="https://www.youtube.com/embed/qjxxYoL7nSU?autoplay=1&mute=1&controls=0&showinfo=0&start=6"
+    src="https://www.youtube.com/embed/qjxxYoL7nSU?autoplay=1&mute=1&controls=0&showinfo=0&start=6&loop=1&iv_load_policy=3&modestbranding=1&fs=0"
     allow="autoplay; encrypted-media;"
     class="!h-[500px] !w-[100%] mb-10"
   >
   </iframe>
-  <div class="text-3xl">
+  <div class="text-3xl font-semibold">
+    トライアスロンの中でも最も過酷な「アイアンマンレース」
   </div>
 </div>
 
 ---
+
+<div class="flex flex-col space-y-4 justify-start">
+  <div class="flex items-center space-x-6">
+    <div class="text-[80px]">🏊</div>
+    <div class="text-4xl leading-[1.8] font-semibold">
+    3.86km
+    </div>
+  </div>
+  <div class="flex items-center space-x-6">
+    <div class="text-[80px]">🚴</div>
+    <div class="text-4xl leading-[1.8] font-semibold">
+      180.25km
+    </div>
+  </div>
+  <div class="flex items-center space-x-6">
+    <div class="text-[80px]">🏃</div>
+    <div class="text-4xl leading-[1.8] font-semibold">
+    42.195km
+    </div>
+  </div>
+</div>
 
 ---
 
