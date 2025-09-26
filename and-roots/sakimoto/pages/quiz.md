@@ -33,17 +33,20 @@
 
 ## 兄弟構成
 
-- A. 一人っ子
-- B. 3人兄弟
-- C. 4人兄弟
-- D. 6人兄弟
+- A. 1 人っ子
+- B. 3 人兄弟
+- C. 4 人兄弟
+- D. 6 人兄弟
 
 ---
 
-男男男女女女
-いっくんは、6 人兄弟の次男です。
-兄弟みんな自由人だけど、
-比較的いっくんがしっかりもので頼られがち
+## D. 6 人兄弟
+
+---
+
+- 上から男男男女女女
+- 兄弟は皆自由人
+- いっくんは比較的しっかり者で頼られる存在
 
 ---
 
@@ -83,7 +86,7 @@
 ---
 
 <div>
-  <iframe 
+  <iframe
     src="https://www.youtube.com/embed/qjxxYoL7nSU?autoplay=1&mute=1&controls=0&showinfo=0&start=6&loop=1&iv_load_policy=3&modestbranding=1&fs=0"
     allow="autoplay; encrypted-media;"
     class="!h-[500px] !w-[100%] mb-10"
