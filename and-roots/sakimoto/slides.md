@@ -43,12 +43,10 @@ src: ./pages/quiz.md
 
 ---
 
-<div class="text-4xl font-semibold leading-[1.7]">
+<div class="text-4xl font-semibold leading-[1.8]">
 これまでグロースハックを引っ張ってくれて本当にありがとうございました！  
 <br/>
 感謝の気持ちを込めて、グロースハックからプレゼントを用意しました。  
-<br/>
-受け取ってください！
 </div>
 
 
