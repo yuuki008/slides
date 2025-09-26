@@ -43,7 +43,7 @@ src: ./pages/quiz.md
 
 ---
 
-<div class="text-4xl font-bold leading-[2]">
+<div class="text-4xl font-semibold leading-[1.7]">
 これまでグロースハックを引っ張ってくれて本当にありがとうございました！  
 <br/>
 感謝の気持ちを込めて、グロースハックからプレゼントを用意しました。  
@@ -55,3 +55,10 @@ src: ./pages/quiz.md
 ---
 
 ## 🍶 懇親会
+
+---
+
+<img src="/profile.jpeg" class="w-[250px] h-auto rounded-lg mb-6">
+<div class="text-5xl font-bold">
+  いっくんから
+</div>
