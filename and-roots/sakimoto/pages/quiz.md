@@ -7,7 +7,7 @@
 
 <div class="text-left">
 <img src="/profile.jpeg" class="w-[250px] h-auto rounded-lg">
-<div class="text-3xl leading-[1.6] font-semibold w-[800px]">
+<div class="text-4xl leading-[1.6] font-semibold w-[800px]">
   「多くを語らない男」のいっくん。<br/>
   そんな彼の素顔を修行に旅立つ前に、クイズ形式で楽しく知っていきましょう！<br/>
 </div>
