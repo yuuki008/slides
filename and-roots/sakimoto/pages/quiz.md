@@ -309,6 +309,14 @@
 
 ---
 
+
+<img src="/qr.jpeg" class="w-[500px] h-auto rounded-lg mb-10">
+<div class="text-5xl font-semibold">
+このスレッドにヒントを送ってます
+</div>
+
+---
+
 ## 🍶 利き酒の答え
 
 ---

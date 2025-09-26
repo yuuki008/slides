@@ -77,7 +77,6 @@ src: ./pages/quiz.md
 感謝の気持ちを込めて、ささやかなプレゼントを用意しました。
 </div>
 
-
 ---
 
 <img src="/profile.jpeg" class="w-[250px] h-auto rounded-lg mb-6">
