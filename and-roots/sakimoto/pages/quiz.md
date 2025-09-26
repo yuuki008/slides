@@ -175,7 +175,7 @@
 
 ---
 
-## 🍶 日本酒の銘柄を当てよう
+## 🍶 利き酒
 
 ---
 
@@ -313,4 +313,63 @@
   </tr>
 </tbody>
 </table>
+
+---
+
+## 🍶 利き酒の答え
+
+---
+
+<div class="w-full max-w-[1000px] mx-auto">
+  <div class="grid grid-cols-2 gap-6">
+    <div class="bg-blue-100 p-6 rounded-lg flex flex-col items-center h-[400px]">
+      <div class="text-[60px] font-bold text-blue-600">A</div>
+      <div class="flex-1 flex items-center justify-center">
+        <img src="/maou.webp" class="w-[180px] h-[200px] object-contain rounded-lg">
+      </div>
+      <div class="text-center">
+        <div class="text-[36px] font-bold text-blue-600">魔王</div>
+      </div>
+    </div>
+    <div class="bg-green-100 p-6 rounded-lg flex flex-col items-center h-[400px]">
+      <div class="text-[60px] font-bold text-green-600">B</div>
+      <div class="flex-1 flex items-center justify-center">
+        <img src="/mimuro_sugi.jpg" class="w-[180px] h-[200px] object-contain rounded-lg">
+      </div>
+      <div class="text-center">
+        <div class="text-[36px] font-bold text-green-600">みむろ杉</div>
+      </div>
+    </div>
+    <div class="bg-orange-100 p-6 rounded-lg flex flex-col items-center h-[400px]">
+      <div class="text-[60px] font-bold text-orange-600">C</div>
+      <div class="flex-1 flex items-center justify-center">
+        <img src="/tanaka_65.jpg" class="w-[180px] h-[200px] object-contain rounded-lg">
+      </div>
+      <div class="text-center">
+        <div class="text-[36px] font-bold text-orange-600">田中六五</div>
+      </div>
+    </div>
+    <div class="bg-purple-100 p-6 rounded-lg flex flex-col items-center h-[400px]">
+      <div class="text-[60px] font-bold text-purple-600">D</div>
+      <div class="flex-1 flex items-center justify-center">
+        <img src="/chamisul.jpg" class="w-[180px] h-[200px] object-contain rounded-lg">
+      </div>
+      <div class="text-center">
+        <div class="text-[36px] font-bold text-purple-600">チャミスル</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+
+<div class="text-center">
+  <div class="text-[50px] font-bold mb-10">🎉 お疲れさまでした！ 🎉</div>
+  <div class="text-[30px]">
+    みなさん、いっくんのことをもっと知ることができましたか？<br/>
+    日本酒事業の成功を祈って、乾杯！🍶
+  </div>
+</div>
+
+---
 
