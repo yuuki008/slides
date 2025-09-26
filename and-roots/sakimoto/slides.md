@@ -28,7 +28,7 @@ seoMeta:
 
 ## 目次
 
-<ul class="relative">
+<ul class="relative text-5xl">
 <li>乾杯</li>
 <li>👑 いくな王</li>
 <li>???</li>
@@ -47,10 +47,10 @@ seoMeta:
 
 ---
 
-<div class="leading-[2.4]">
-<span class="text-7xl font-bold">しゅうさん</span>から<span class="text-6xl font-bold">日本酒</span>を
+<div class="leading-[2.4] text-5xl">
+<span class="text-7xl font-bold mr-1">しゅうさん</span>から<span class="mx-1 text-6xl font-bold">日本酒</span>を
 <br/>
-<span class="text-7xl font-bold">みずきさん</span>から<span class="text-6xl font-bold">焼酎</span>と<span class="text-6xl font-bold">日本酒</span>を
+<span class="text-7xl font-bold mr-1">みずきさん</span>から<span class="mx-1 text-6xl font-bold">焼酎</span>と<span class="text-6xl font-bold">日本酒</span>を
 <br/>
 頂いてます！！
 </div>
