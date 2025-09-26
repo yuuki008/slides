@@ -40,49 +40,31 @@ seoMeta:
 
 ---
 
-### 🏮 しゅうさんからの日本酒
-
-<div class="flex flex-col items-center">
-  <div class="text-4xl font-semibold mb-4">
-    <span class="text-blue-700 font-bold">阿部酒造</span>さんのお酒を
-    <span class="text-5xl text-red-600 font-bold">3本</span>用意してくれました！
-  </div>
+<img src="/select-sake.jpeg" class="w-[500px] h-[400px] object-cover rounded-lg mb-10">
+<div class="font-bold text-[45px]">
+いっくんの飲みたい日本酒 3 つを買ってきました！
 </div>
 
 ---
 
-## 🥃 みずきさんからのお酒
-
-<div class="flex flex-col items-center">
-  <div class="text-4xl font-semibold mb-4">
-    みずきさんが<span class="text-5xl text-green-700 font-bold">焼酎</span>と
-    <span class="text-5xl text-blue-700 font-bold">日本酒</span>を
-    用意してくれました！
-  </div>
-  <div class="text-2xl">
-  </div>
+<div class="leading-[2.4]">
+<span class="text-7xl font-bold">しゅうさん</span>から<span class="text-6xl font-bold">阿部酒蔵</span>さんの日本酒を
+<br/>
+<span class="text-7xl font-bold">みずきさん</span>から<span class="text-6xl font-bold">焼酎</span>と<span class="text-6xl font-bold">日本酒</span>を
+<br/>
+頂いてます！！
 </div>
 
 ---
 
-<div class="text-5xl font-bold text-center my-10">
+<div class="text-7xl font-bold text-center my-10">
   いっくん、乾杯をお願いします 🍶
 </div>
 
 ---
-
-## 🥂 みんなで一緒に乾杯しましょう！
-
----
-
-<img src="/profile.jpeg" class="w-[250px] h-auto rounded-lg mb-6">
-<div class="text-5xl font-bold">
-  いっくんから
-</div>
-
----
-
 src: ./pages/quiz.md
+---
+
 ---
 
 ## 🎁 グロースハックから
@@ -97,4 +79,9 @@ src: ./pages/quiz.md
 
 
 ---
+
+<img src="/profile.jpeg" class="w-[250px] h-auto rounded-lg mb-6">
+<div class="text-5xl font-bold">
+  いっくんから
+</div>
 

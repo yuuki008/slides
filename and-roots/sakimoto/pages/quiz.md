@@ -5,10 +5,6 @@
 
 ---
 
-<!-- <div class="text-xl mb-6">
-  これから日本酒事業が本格的に始まる前に、<br/>
-  みなさんに改めて「いっくん」のことを知ってもらいたい。
-</div> -->
 <div class="text-left">
 <img src="/profile.jpeg" class="w-[250px] h-auto rounded-lg">
 <div class="text-3xl leading-[1.6] font-semibold w-[800px]">
@@ -29,7 +25,7 @@
 
 <img src="/room.png" class="w-[800px] h-auto rounded-lg">
 
-----
+---
 
 ## 兄弟構成
 
@@ -185,13 +181,6 @@
 
 ---
 
-
-<img src="/select-sake.jpeg" class="w-[500px] h-[400px] object-cover rounded-lg mb-10">
-<div class="font-bold text-[45px]">
-いっくんの飲みたい日本酒を買ってきました！
-</div>
-
----
 
 <div>
 <div class="font-bold text-[45px]">
