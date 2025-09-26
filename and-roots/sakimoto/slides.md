@@ -28,9 +28,11 @@ seoMeta:
 
 ## 目次
 
-- 👑 いくな王
-- ???
-- 懇親会
+<ul class="relative">
+<li>いくな王 <span class="absolute text-4xl top-[-12px] right-[2px]">👑</span></li>
+<li>???</li>
+<li>懇親会</li>
+</ul>
 
 ---
 src: ./pages/quiz.md

@@ -63,12 +63,22 @@
 
 ---
 
-<img src="/tanaka.webp" class="w-[500px] h-auto rounded-lg">
+<div class="text-4xl font-semibold">
+泥くさくて一生懸命なところが好き。
+</div>
 
 ---
 
-泥くさくて一生懸命なところが好き。
-好きなシーン「とこで下を向いている暇はあるのか？」
+<img src="/tanaka03.webp" class="w-[800px] h-auto rounded-lg mb-10" />
+<div class="text-4xl font-semibold">
+「ところで平凡な俺よ、下を向いている暇はあるのか？」
+</div>
+
+---
+
+<div class="text-5xl font-semibold">
+いっくんは、平凡じゃないよ
+</div>
 
 ---
 
