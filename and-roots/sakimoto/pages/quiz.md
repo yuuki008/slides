@@ -115,6 +115,13 @@
 
 ---
 
+<img src="/vega.webp" class="w-[400px] h-auto rounded-lg mb-20">
+<div class="text-3xl">
+さっさんの一押しは「<b>Vega</b>」です！
+</div>
+
+---
+
 ## 🍶 日本酒の銘柄を当てよう
 
 ---
