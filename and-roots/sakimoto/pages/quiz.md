@@ -263,10 +263,6 @@
 
 ---
 
-### チームの中から試飲する人を決めてください
-
----
-
 ### 🍶 さあ、銘柄を当てよう！
 
 <table class="!w-[1100px]">
@@ -283,6 +279,7 @@
       <strong>キーワード：</strong> 福岡県・山田錦・バランス<br/>
       <strong>味わい：</strong> 山田錦の旨味と酸味がバランスよく、ややふくよかで食事に合う<br/>
       <strong>特徴：</strong> 米の甘みとキレの良さが特徴的
+      <strong>値段：</strong> ￥ 1,800 (720ml)
     </td>
   </tr>
   <tr>
@@ -291,6 +288,7 @@
       <strong>キーワード：</strong> 奈良県・すっきり・フレッシュ<br/>
       <strong>味わい：</strong> すっきりとした飲み口、米の旨味とフレッシュな酸味<br/>
       <strong>特徴：</strong> 華やかな香りで飲みやすい
+      <strong>値段：</strong> ￥ 5,400 (720ml)
     </td>
   </tr>
   <tr>
@@ -299,6 +297,7 @@
       <strong>キーワード：</strong> 鹿児島県・芋焼酎・プレミアム<br/>
       <strong>味わい：</strong> 穏やかな風味、華やかな香り、豊かな余韻<br/>
       <strong>特徴：</strong> 天使の分け前をコンセプトとした熟成酒、白玉醸造の代表銘柄
+      <strong>値段：</strong> ￥ 2,715 (1800ml)
     </td>
   </tr>
   <tr>
@@ -307,6 +306,7 @@
       <strong>キーワード：</strong> 韓国・焼酎・低アルコール<br/>
       <strong>味わい：</strong> すっきりとした甘みと軽い飲み口<br/>
       <strong>特徴：</strong> アルコール度数が低めで飲みやすい、<strong>日本酒ではない</strong>
+      <strong>値段：</strong> ￥ 264 (360ml)
     </td>
   </tr>
 </tbody>
