@@ -40,13 +40,19 @@
 
 ---
 
-## D. 6 人兄弟
+# D. 6 人兄弟
 
 ---
 
-- 上から👨👨👨👧👧👧
-- 兄弟は皆自由人
-- いっくんは比較的しっかり者で頼られる存在
+
+<div class="flex items-center text-[80px]">
+👨
+<span><img src="/profile.jpeg" class="w-[180px] h-auto rounded-lg"></span>
+👨👧👧👧
+</div>
+<div class="text-4xl font-semibold">
+兄弟は皆自由人でいっくんはしっかり者で頼られる存在
+</div>
 
 ---
 
@@ -59,25 +65,25 @@
 
 ---
 
-## D. 田中（ハイキュー）
+# D. 田中（ハイキュー）
 
 ---
 
-<div class="text-4xl font-semibold">
+<div class="text-7xl font-semibold">
 泥くさくて一生懸命なところが好き。
 </div>
 
 ---
 
 <img src="/tanaka03.webp" class="w-[800px] h-auto rounded-lg mb-10" />
-<div class="text-4xl font-semibold">
+<div class="text-5xl font-semibold">
 「ところで平凡な俺よ、下を向いている暇はあるのか？」
 </div>
 
 ---
 
-<div class="text-5xl font-semibold">
-いっくんは、平凡じゃないよ
+<div class="text-8xl font-semibold">
+いっくんは、平凡じゃないよ。
 </div>
 
 ---
@@ -91,7 +97,7 @@
 
 ---
 
-## D. トライアスロン
+# D. トライアスロン
 
 ---
 
@@ -102,7 +108,7 @@
     class="!h-[500px] !w-[100%] mb-10"
   >
   </iframe>
-  <div class="text-3xl font-semibold">
+  <div class="text-4xl font-semibold">
     トライアスロンの中でも最も過酷な「アイアンマンレース」
   </div>
 </div>
@@ -111,20 +117,20 @@
 
 <div class="flex flex-col space-y-4 justify-start">
   <div class="flex items-center space-x-6">
-    <div class="text-[80px]">🏊</div>
-    <div class="text-4xl leading-[1.8] font-semibold">
+    <div class="text-[100px]">🏊</div>
+    <div class="text-5xl leading-[1.8] font-semibold">
     3.86km
     </div>
   </div>
   <div class="flex items-center space-x-6">
-    <div class="text-[80px]">🚴</div>
-    <div class="text-4xl leading-[1.8] font-semibold">
+    <div class="text-[100px]">🚴</div>
+    <div class="text-5xl leading-[1.8] font-semibold">
       180.25km
     </div>
   </div>
   <div class="flex items-center space-x-6">
-    <div class="text-[80px]">🏃</div>
-    <div class="text-4xl leading-[1.8] font-semibold">
+    <div class="text-[100px]">🏃</div>
+    <div class="text-5xl leading-[1.8] font-semibold">
     42.195km
     </div>
   </div>
@@ -145,42 +151,42 @@
 
 ---
 
-### B. 阿部酒造
+# B. 阿部酒造
 
 ---
 
 <img src="/abe.webp" class="w-[350px] h-auto rounded-lg mb-20">
-<div class="text-3xl">
+<div class="text-5xl">
 1804 年から続く、新潟県柏崎市の酒蔵。
 </div>
 
 ---
 
-<div>
+<div class="flex flex-col items-center">
   <div class="flex space-x-10 mb-20">
-    <img src="/abe-black.webp" class="w-[400px] h-auto rounded-lg">
-    <img src="/vega.webp" class="w-[400px] h-auto rounded-lg">
+    <img src="/abe-black.webp" class="w-[500px] h-auto rounded-lg">
+    <img src="/vega.webp" class="w-[500px] h-auto rounded-lg">
   </div>
-  <div class="text-3xl">
+  <div class="text-5xl">
   「あべ」や「スター」シリーズが有名なので、見かけたらぜひ！！
   </div>
 </div>
 
 ---
 
-<img src="/vega.webp" class="w-[400px] h-auto rounded-lg mb-20">
-<div class="text-3xl">
-いっくんの一押しは「<b>VEGA</b>」です！
+<img src="/vega.webp" class="w-[500px] leading-[1.8] h-auto rounded-lg mb-20">
+<div class="text-5xl">
+いっくんの一押しは<span class="font-semibold text-7xl">「VEGA」</span>です！
 </div>
 
 ---
 
-## 🍶 利き酒
+# 🍶 利き酒
 
 ---
 
 
-<img src="/select-sake.jpeg" class="w-[400px] h-[300px] object-cover rounded-lg mb-10">
+<img src="/select-sake.jpeg" class="w-[500px] h-[400px] object-cover rounded-lg mb-10">
 <div class="font-bold text-[45px]">
 いっくんの飲みたい日本酒を買ってきました！
 </div>
@@ -278,7 +284,7 @@
     <td>
       <strong>キーワード：</strong> 福岡県・山田錦・バランス<br/>
       <strong>味わい：</strong> 山田錦の旨味と酸味がバランスよく、ややふくよかで食事に合う<br/>
-      <strong>特徴：</strong> 米の甘みとキレの良さが特徴的
+      <strong>特徴：</strong> 米の甘みとキレの良さが特徴的<br/>
       <strong>値段：</strong> ￥ 1,800 (720ml)
     </td>
   </tr>
@@ -287,7 +293,7 @@
     <td>
       <strong>キーワード：</strong> 奈良県・すっきり・フレッシュ<br/>
       <strong>味わい：</strong> すっきりとした飲み口、米の旨味とフレッシュな酸味<br/>
-      <strong>特徴：</strong> 華やかな香りで飲みやすい
+      <strong>特徴：</strong> 華やかな香りで飲みやすい<br/>
       <strong>値段：</strong> ￥ 5,400 (720ml)
     </td>
   </tr>
@@ -296,7 +302,7 @@
     <td>
       <strong>キーワード：</strong> 鹿児島県・芋焼酎・プレミアム<br/>
       <strong>味わい：</strong> 穏やかな風味、華やかな香り、豊かな余韻<br/>
-      <strong>特徴：</strong> 天使の分け前をコンセプトとした熟成酒、白玉醸造の代表銘柄
+      <strong>特徴：</strong> 天使の分け前をコンセプトとした熟成酒、白玉醸造の代表銘柄<br/>
       <strong>値段：</strong> ￥ 2,715 (1800ml)
     </td>
   </tr>
@@ -305,7 +311,7 @@
     <td>
       <strong>キーワード：</strong> 韓国・焼酎・低アルコール<br/>
       <strong>味わい：</strong> すっきりとした甘みと軽い飲み口<br/>
-      <strong>特徴：</strong> アルコール度数が低めで飲みやすい、<strong>日本酒ではない</strong>
+      <strong>特徴：</strong> アルコール度数が低めで飲みやすい、<strong>日本酒ではない</strong><br/>
       <strong>値段：</strong> ￥ 264 (360ml)
     </td>
   </tr>
