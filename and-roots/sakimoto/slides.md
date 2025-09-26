@@ -55,6 +55,14 @@ seoMeta:
 頂いてます！！
 </div>
 
+
+---
+
+<img src="/ritsu.png" class="w-[500px] h-auto rounded-lg mb-10">
+<div class="text-5xl font-bold text-center my-10">
+  リッツの食べ方
+</div>
+
 ---
 
 <div class="text-7xl font-bold text-center my-10">
