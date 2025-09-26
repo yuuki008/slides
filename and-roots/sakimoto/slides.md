@@ -29,30 +29,14 @@ seoMeta:
 ## 目次
 
 <ul class="relative">
-<li>いくな王 <span class="absolute text-4xl top-[-12px] right-[2px]">👑</span></li>
+<li>乾杯</li>
+<li>👑 いくな王</li>
 <li>???</li>
-<li>懇親会</li>
 </ul>
 
 ---
-src: ./pages/quiz.md
----
 
-## 🎁 グロースハックから
-
----
-
-<div class="text-4xl font-semibold leading-[1.8]">
-これまでグロースハックを引っ張ってくれて本当にありがとうございました！
-<br/>
-感謝の気持ちを込めて、ささやかなプレゼントを用意しました。
-</div>
-
-
----
-
-## 🍶 懇親会
-
+# 🍶 乾杯
 
 ---
 
@@ -81,6 +65,12 @@ src: ./pages/quiz.md
 
 ---
 
+<div class="text-5xl font-bold text-center my-10">
+  いっくん、乾杯をお願いします 🍶
+</div>
+
+---
+
 ## 🥂 みんなで一緒に乾杯しましょう！
 
 ---
@@ -89,3 +79,22 @@ src: ./pages/quiz.md
 <div class="text-5xl font-bold">
   いっくんから
 </div>
+
+---
+
+src: ./pages/quiz.md
+---
+
+## 🎁 グロースハックから
+
+---
+
+<div class="text-4xl font-semibold leading-[1.8]">
+これまでグロースハックを引っ張ってくれて本当にありがとうございました！
+<br/>
+感謝の気持ちを込めて、ささやかなプレゼントを用意しました。
+</div>
+
+
+---
+
