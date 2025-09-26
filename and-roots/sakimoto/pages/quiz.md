@@ -99,6 +99,10 @@
 
 ---
 
+<img src="/shimonoseki-marathon.jpg" class="w-full h-auto rounded-lg">
+
+---
+
 ## 好きなアニメのキャラ
 
 - A. 李牧（キングダム）
