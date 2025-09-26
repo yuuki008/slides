@@ -234,15 +234,15 @@
 ---
 
 <div class="flex space-x-30 items-center">
-  <img src="/hiyaoroshi.jpg" class="w-[400px] h-auto object-cover rounded-lg">
+  <img src="/maou.webp" class="w-[400px] h-auto object-cover rounded-lg">
   <div class="flex-1">
     <div class="text-[45px] font-bold mb-10">
-      鳳凰 山田錦ヒヤオロシ
+      魔王
     </div>
     <div class="text-[30px]">
-      栃木県の小林酒造が造る純米吟醸酒です。
+      鹿児島県の白玉醸造が造る芋焼酎です。
       <br/>
-      まろやかで上品な旨味が特徴で、秋の味覚によく合う季節限定の人気銘柄です。
+      熟成酒ならではの飲みあきのしない穏やかな風味で、華やかに香り立ち、豊かな余韻を残すプレミアム焼酎です。
     </div>
   </div>
 </div>
@@ -296,11 +296,11 @@
     </td>
   </tr>
   <tr>
-    <td>鳳凰 山田錦ヒヤオロシ</td>
+    <td>魔王</td>
     <td>
-      <strong>キーワード：</strong> 栃木県・ひやおろし・秋限定<br/>
-      <strong>味わい：</strong> まろやかで上品な旨味、やや甘口<br/>
-      <strong>特徴：</strong> 熟成感とフルーティーな香り、季節限定品
+      <strong>キーワード：</strong> 鹿児島県・芋焼酎・プレミアム<br/>
+      <strong>味わい：</strong> 穏やかな風味、華やかな香り、豊かな余韻<br/>
+      <strong>特徴：</strong> 天使の分け前をコンセプトとした熟成酒、白玉醸造の代表銘柄
     </td>
   </tr>
   <tr>
