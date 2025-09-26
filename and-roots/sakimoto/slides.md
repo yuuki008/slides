@@ -40,15 +40,15 @@ seoMeta:
 
 ---
 
-<img src="/select-sake.jpeg" class="w-[500px] h-[400px] object-cover rounded-lg mb-10">
-<div class="font-bold text-[45px]">
+<img src="/select-sake.jpeg" class="w-[600px] h-[400px] object-cover rounded-lg mb-10">
+<div class="font-bold text-[50px]">
 いっくんの飲みたい日本酒 3 つを買ってきました！
 </div>
 
 ---
 
 <div class="leading-[2.4]">
-<span class="text-7xl font-bold">しゅうさん</span>から<span class="text-6xl font-bold">阿部酒蔵</span>さんの日本酒を
+<span class="text-7xl font-bold">しゅうさん</span>から<span class="text-6xl font-bold">日本酒</span>を
 <br/>
 <span class="text-7xl font-bold">みずきさん</span>から<span class="text-6xl font-bold">焼酎</span>と<span class="text-6xl font-bold">日本酒</span>を
 <br/>
@@ -84,4 +84,3 @@ src: ./pages/quiz.md
 <div class="text-5xl font-bold">
   いっくんから
 </div>
-

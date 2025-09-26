@@ -17,7 +17,7 @@
 
 ## ルール説明
 
-- 6 人 1 組のチーム
+- 5 組のチームに分かれます
 - 各チームでクイズに答える
 - 正解した問題数が一番多いチームが「いくな王」
 
@@ -99,7 +99,7 @@
 
 <div>
   <iframe
-    src="https://www.youtube.com/embed/qjxxYoL7nSU?autoplay=1&mute=1&controls=0&showinfo=0&start=6&loop=1&iv_load_policy=3&modestbranding=1&fs=0"
+    src="https://www.youtube.com/embed/qjxxYoL7nSU?autoplay=1&mute=1&controls=0&showinfo=0&start=6&loop=1&iv_load_policy=3&modestbranding=1&fs=0&loop=1"
     allow="autoplay; encrypted-media;"
     class="!h-[500px] !w-[100%] mb-10"
   >
@@ -353,5 +353,3 @@
     </div>
   </div>
 </div>
-
----
