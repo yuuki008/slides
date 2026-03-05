@@ -1,5 +1,5 @@
 {
   "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }],
-  "buildCommand": "bun run --bun build",
+  "buildCommand": "pnpm run build",
   "outputDirectory": "dist"
 }

@@ -1,5 +1,5 @@
 ---
-theme: ./theme
+theme: slidev-theme-growthhack
 title: ブラウザの仕組みを爆速で理解
 favicon: /profile.jpeg
 mdc: true

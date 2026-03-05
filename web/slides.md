@@ -1,5 +1,5 @@
 ---
-theme: ./theme
+theme: slidev-theme-growthhack
 title: あなたの知らない Web の世界
 favicon: /profile.jpeg
 mdc: true

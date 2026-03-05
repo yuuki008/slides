@@ -1,5 +1,5 @@
 ---
-theme: ./theme
+theme: slidev-theme-growthhack
 title: いっくんを送る会
 favicon: /profile.jpeg
 mdc: true

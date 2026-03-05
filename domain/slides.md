@@ -1,5 +1,5 @@
 ---
-theme: ./theme
+theme: slidev-theme-growthhack
 title: あなたの知らないドメインの世界
 favicon: /ando_icon.webp
 mdc: true

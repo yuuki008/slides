@@ -1,5 +1,5 @@
 ---
-theme: ./theme
+theme: slidev-theme-growthhack
 title: グロースハック | 総会資料
 favicon: /ando_icon.webp
 mdc: true
