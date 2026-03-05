@@ -1,0 +1,8 @@
+packages:
+  - 'packages/*'
+  - 'browser'
+  - 'domain'
+  - 'quarterly-metting-2025-01'
+  - 'sakimoto'
+  - 'web'
+  - 'cookie'
